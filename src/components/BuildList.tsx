@@ -53,7 +53,7 @@ export function BuildList({ buildings }: BuildListProps) {
             <div className="eyebrow">ARCHIVES / 01 - BÂTIMENTS</div>
 
             <h1>
-              Les forces du <span>secteur.</span>
+              Les bâtiments du <span>secteur.</span>
             </h1>
 
             <p>

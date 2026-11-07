@@ -231,7 +231,7 @@ input {
 }
 /* 3. Introduction : une scène vectorielle locale, donc aucun chargement externe. */
 .hero {
-  min-height: 320px;
+  min-height: 250px;
   position: relative;
   overflow: hidden;
   border-bottom: 1px solid var(--line);
@@ -252,14 +252,14 @@ input {
 }
 .hero-inner {
   position: relative;
-  min-height: 320px;
+  min-height: 250px;
   padding-top: 49px;
   padding-bottom: 42px;
 }
 .hero-copy {
   position: relative;
   z-index: 2;
-  max-width: 580px;
+  /* max-width: 580px; */
 }
 .hero h1 {
   font: 600 clamp(38px, 4vw, 59px)/1.05 var(--display);

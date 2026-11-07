@@ -3,6 +3,7 @@ import { StatIcon } from "../models/StatIcon";
 import { toSlug } from "../models/toSlug";
 import { UnitRelations } from "./UnitRelations";
 import { BuildRelations } from "./BuildRelations";
+import { UpgradeRelations } from "./UpgradeRelations";
 
 type BuildCardDetailsProps = {
   building: Build;
@@ -142,6 +143,14 @@ export function BuildCardDetails({ building }: BuildCardDetailsProps) {
           )}
         </div>
       </div>
+      <section className="detail-section">
+        <h2>Capacités à rechercher</h2>
+        <UpgradeRelations title="Recherches disponibles" upgrades={building.capacites} />
+      </section>
+      <section className="detail-section">
+        <h2>Passifs à rechercher</h2>
+        <UpgradeRelations title="Recherches disponibles" upgrades={building.passifs} />
+      </section>
     </section>
   );
 }

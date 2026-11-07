@@ -11,7 +11,7 @@ export function Header() {
       <nav className="primary-nav" aria-label="Navigation principale">
         <a href="/unites">Unités</a>
         <a href="/batiments">Bâtiments</a>
-        <a href="/capacites">Capacités</a>
+        <a href="/ameliorations">Améliorations</a>
       </nav>
 
       <div className="topbar-end">

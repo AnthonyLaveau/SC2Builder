@@ -3,6 +3,7 @@ import { toSlug } from "../models/toSlug";
 import { StatIcon } from "../models/StatIcon";
 import { UnitRelations } from "./UnitRelations";
 import { BuildRelations } from "./BuildRelations";
+import { UpgradeRelations } from "./UpgradeRelations";
 
 type UnitCardDetailsProps = {
   unit: Unit;
@@ -219,32 +220,14 @@ export function UnitCardDetails({ unit, onBack }: UnitCardDetailsProps) {
           <UnitRelations title="Faible contre" units={unit.faibleContre} />
         </div>
       </section>
+
       <section className="detail-section">
         <h2>Capacités</h2>
-
-        <div className="relation-box">
-          {unit.capacites.map((capacite) => (
-            <a
-              key={capacite.id}
-              className="relation-item"
-              href={`/capacites/${toSlug(capacite.faction.id)}/${toSlug(capacite.nom)}`}
-            >
-              {capacite.image && (
-                <img src={capacite.image} alt="" loading="lazy" />
-              )}
-
-              <b>{capacite.nom}</b>
-
-              <span className="relation-arrow" aria-hidden="true">
-                →
-              </span>
-            </a>
-          ))}
-
-          {unit.capacites.length === 0 && (
-            <p className="none">Aucune capacité renseignée.</p>
-          )}
-        </div>
+        <UpgradeRelations title="Capacités disponibles" upgrades={unit.capacites} />
+      </section>
+      <section className="detail-section">
+        <h2>Passifs</h2>
+        <UpgradeRelations title="Passifs disponibles" upgrades={unit.passifs} />
       </section>
     </section>
   );

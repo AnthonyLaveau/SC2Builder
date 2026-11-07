@@ -26,4 +26,6 @@ export type Build = {
   produit: EntityReference[];
   evolueVers: EntityReference[];
   evolueDepuis: EntityReference[];
+  capacites: EntityReference[];
+  passifs: EntityReference[];
 };

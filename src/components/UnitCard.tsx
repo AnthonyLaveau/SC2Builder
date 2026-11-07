@@ -12,15 +12,6 @@ export function UnitCard({ unit /*onSelect */ }: UnitCardProps) {
       <article
         className="entity-card"
         data-faction={unit.faction.nom.toLowerCase()}
-        // role="button"
-        // tabIndex={0}
-        // onClick={() => onSelect?.(unit.id)}
-        // onKeyDown={(event) => {
-        //   if (event.key === "Enter" || event.key === " ") {
-        //     event.preventDefault();
-        //     onSelect?.(unit.id);
-        //   }
-        // }}
       >
         <div className="card-visual">
           <span className="faction-badge">{unit.faction.nom}</span>

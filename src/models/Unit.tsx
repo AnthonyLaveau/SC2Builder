@@ -47,5 +47,6 @@ export type Unit = {
   fortContre: EntityReference[];
   faibleContre: EntityReference[];
   capacites: EntityReference[];
+  passifs: EntityReference[];
   evolueVers: EntityReference[];
 };
