@@ -9,17 +9,17 @@ type UnitListProps = {
 
 export function UnitList({ units, onSelect }: UnitListProps) {
   const [search, setSearch] = useState("");
-  // const [faction, setFaction] = useState("all");
-  const [faction, setFaction] = useState(() => {
-    const params = new URLSearchParams(window.location.search);
-    const factionParam = params.get("faction");
+  const [faction, setFaction] = useState("all");
+  // const [faction, setFaction] = useState(() => {
+  //   const params = new URLSearchParams(window.location.search);
+  //   const factionParam = params.get("faction");
 
-    const factionName = ["Terran", "Protoss", "Zerg"].find(
-      (name) => name.toLowerCase() === factionParam,
-    );
+  //   const factionName = ["Terran", "Protoss", "Zerg"].find(
+  //     (name) => name.toLowerCase() === factionParam,
+  //   );
 
-    return factionName ?? "all";
-  });
+  //   return factionName ?? "all";
+  // });
   const [sortOrder, setSortOrder] = useState("default");
   const [selectedType, setSelectedType] = useState("all");
   // const visibleUnits = units.filter((unit) =>
@@ -47,6 +47,7 @@ export function UnitList({ units, onSelect }: UnitListProps) {
     }
     return a.id - b.id;
   });
+  const availableFactions = [...new Set(units.map((unit) => unit.faction.nom))];
   const availableTypes = [
     ...new Set(units.flatMap((unit) => unit.attributs)),
   ].sort((a, b) => a.localeCompare(b, "fr"));
@@ -85,13 +86,12 @@ export function UnitList({ units, onSelect }: UnitListProps) {
           role="group"
           aria-label="Filtrer par faction"
         >
-          {["all", "Terran", "Protoss", "Zerg"].map((value) => (
+          {["all", ...availableFactions].map((value) => (
             <button
               key={value}
               type="button"
               className={`faction-tab ${faction === value ? "active" : ""}`}
               data-faction={value.toLowerCase()}
-              aria-pressed={faction === value}
               onClick={() => setFaction(value)}
             >
               <span>
