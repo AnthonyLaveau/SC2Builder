@@ -8,6 +8,7 @@ type UpgradeCardDetailsProps = {
 };
 
 export function UpgradeCardDetails({ upgrade }: UpgradeCardDetailsProps) {
+  const unitName = new URLSearchParams(window.location.search).get("unite");
   return (
     <section className="detail-page page" data-faction={upgrade.faction.id}>
       <a className="button" href="/ameliorations">
@@ -54,22 +55,37 @@ export function UpgradeCardDetails({ upgrade }: UpgradeCardDetailsProps) {
             <div className="cost-bar">
               <div>
                 <small>Minerais</small>
-                <strong>{upgrade.coutRecherche.minerais}</strong>
+                <strong>{upgrade.coutRecherche.minerais} </strong>
+                <img
+                  src="/src/assets/images/icon-mineral.png"
+                  alt="Minerais"
+                  className="cost-icon"
+                />
               </div>
 
               <div>
                 <small>Gaz</small>
-                <strong>{upgrade.coutRecherche.gaz}</strong>
+                <strong>{upgrade.coutRecherche.gaz} </strong>
+                <img
+                  src="/src/assets/images/icon-gas.png"
+                  alt="Gaz"
+                  className="cost-icon"
+                />
               </div>
 
               <div>
                 <small>Temps de recherche</small>
-                <strong>{upgrade.coutRecherche.temps} s</strong>
+                <strong>{upgrade.coutRecherche.temps} </strong>
+                <img
+                  src="/src/assets/images/icon-time-protoss.png"
+                  alt="Temps de production"
+                  className="cost-icon"
+                />
               </div>
             </div>
           </section>
 
-          {upgrade.categorie === "capacite" && (
+          {/* {upgrade.categorie === "capacite" && (
             <section className="detail-section">
               <h2>Coût d’activation</h2>
 
@@ -81,17 +97,35 @@ export function UpgradeCardDetails({ upgrade }: UpgradeCardDetailsProps) {
 
                 <div className="stat">
                   <dt>Vie</dt>
-                  <dd>{upgrade.coutActivation.vie ?? "Non renseigné"}</dd>
+
+                  {upgrade.coutActivationParUnite?.some(
+                    (cout) => cout.unite === unitName,
+                  ) ? (
+                    <dd>
+                      {
+                        upgrade.coutActivationParUnite.find(
+                          (cout) => cout.unite === unitName,
+                        )?.vie
+                      }{" "}
+                      PV
+                    </dd>
+                  ) : upgrade.coutActivationParUnite?.length ? (
+                    upgrade.coutActivationParUnite.map((cout) => (
+                      <dd key={cout.unite}>
+                        {cout.unite} : {cout.vie} PV
+                      </dd>
+                    ))
+                  ) : (
+                    <dd>
+                      {upgrade.coutActivation.vie != null
+                        ? `${upgrade.coutActivation.vie} PV`
+                        : "Non renseigné"}
+                    </dd>
+                  )}
                 </div>
               </dl>
-
-              {upgrade.coutActivationParUnite?.map((cout) => (
-                <p key={cout.unite}>
-                  {cout.unite} : {cout.vie} points de vie par activation.
-                </p>
-              ))}
             </section>
-          )}
+          )} */}
           <section className="detail-section">
             <h2>Recherché dans</h2>
 
@@ -112,6 +146,11 @@ export function UpgradeCardDetails({ upgrade }: UpgradeCardDetailsProps) {
           </section>
         </div>
       </div>
+      <section className="detail-section">
+        <h2>Unités affectées</h2>
+
+        <UnitRelations title="Unités affectées" units={upgrade.pourUnite} />
+      </section>
     </section>
   );
 }
