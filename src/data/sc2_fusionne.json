@@ -60,11 +60,7 @@
       "pv": 45,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Léger",
-        "Biologique",
-        "Mécanique"
-      ],
+      "attributs": ["Léger", "Biologique", "Mécanique"],
       "armes": [
         {
           "degats": 5,
@@ -154,10 +150,7 @@
       "pv": 60,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Léger",
-        "Mécanique"
-      ],
+      "attributs": ["Léger", "Mécanique"],
       "armes": [],
       "tempsProduction": 0,
       "aerienne": false,
@@ -193,10 +186,7 @@
       "pv": 45,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Léger",
-        "Biologique"
-      ],
+      "attributs": ["Léger", "Biologique"],
       "armes": [
         {
           "degats": 6,
@@ -424,10 +414,7 @@
       "pv": 60,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Léger",
-        "Biologique"
-      ],
+      "attributs": ["Léger", "Biologique"],
       "armes": [
         {
           "degats": 4,
@@ -642,10 +629,7 @@
       "pv": 125,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique"
-      ],
+      "attributs": ["Blindé", "Biologique"],
       "armes": [
         {
           "degats": 10,
@@ -895,10 +879,7 @@
       "pv": 100,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Biologique",
-        "Psionique"
-      ],
+      "attributs": ["Biologique", "Psionique"],
       "armes": [
         {
           "degats": 10,
@@ -1161,10 +1142,7 @@
       "pv": 90,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Léger",
-        "Mécanique"
-      ],
+      "attributs": ["Léger", "Mécanique"],
       "armes": [
         {
           "degats": 8,
@@ -1371,11 +1349,7 @@
       "pv": 135,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Léger",
-        "Biologique",
-        "Mécanique"
-      ],
+      "attributs": ["Léger", "Biologique", "Mécanique"],
       "armes": [
         {
           "degats": 18,
@@ -1534,10 +1508,7 @@
       "pv": 175,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique"
-      ],
+      "attributs": ["Blindé", "Mécanique"],
       "armes": [
         {
           "degats": 15,
@@ -1694,10 +1665,7 @@
       "pv": 90,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Léger",
-        "Mécanique"
-      ],
+      "attributs": ["Léger", "Mécanique"],
       "armes": [],
       "tempsProduction": 21.4,
       "aerienne": false,
@@ -1814,10 +1782,7 @@
       "pv": 120,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique"
-      ],
+      "attributs": ["Blindé", "Mécanique"],
       "armes": [
         {
           "degats": 18,
@@ -1969,11 +1934,7 @@
       "pv": 400,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Massif"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Massif"],
       "armes": [
         {
           "degats": 6,
@@ -2236,10 +2197,7 @@
       "pv": 135,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Blindé",
-        "Mécanique"
-      ],
+      "attributs": ["Blindé", "Mécanique"],
       "armes": [
         {
           "degats": 10,
@@ -2459,10 +2417,7 @@
       "pv": 150,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique"
-      ],
+      "attributs": ["Blindé", "Mécanique"],
       "armes": [],
       "tempsProduction": 30,
       "aerienne": true,
@@ -2513,10 +2468,7 @@
       "pv": 140,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Léger",
-        "Mécanique"
-      ],
+      "attributs": ["Léger", "Mécanique"],
       "armes": [
         {
           "degats": 12,
@@ -2773,10 +2725,7 @@
       "pv": 140,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Léger",
-        "Mécanique"
-      ],
+      "attributs": ["Léger", "Mécanique"],
       "armes": [],
       "tempsProduction": 34.3,
       "aerienne": true,
@@ -2946,10 +2895,7 @@
       "pv": 180,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Blindé",
-        "Mécanique"
-      ],
+      "attributs": ["Blindé", "Mécanique"],
       "armes": [
         {
           "degats": 5,
@@ -3163,11 +3109,7 @@
       "pv": 550,
       "bouclier": 0,
       "armure": 3,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Massif"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Massif"],
       "armes": [],
       "tempsProduction": 64.3,
       "aerienne": true,
@@ -3417,11 +3359,7 @@
       "pv": 100,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Structure"],
       "armes": [
         {
           "degats": 18,
@@ -3468,10 +3406,7 @@
       "pv": 20,
       "bouclier": 20,
       "armure": 0,
-      "attributs": [
-        "Léger",
-        "Mécanique"
-      ],
+      "attributs": ["Léger", "Mécanique"],
       "armes": [
         {
           "degats": 5,
@@ -3533,10 +3468,7 @@
       "pv": 100,
       "bouclier": 50,
       "armure": 1,
-      "attributs": [
-        "Léger",
-        "Biologique"
-      ],
+      "attributs": ["Léger", "Biologique"],
       "armes": [
         {
           "degats": 8,
@@ -3801,10 +3733,7 @@
       "pv": 80,
       "bouclier": 80,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique"
-      ],
+      "attributs": ["Blindé", "Mécanique"],
       "armes": [
         {
           "degats": 13,
@@ -4121,10 +4050,7 @@
       "pv": 40,
       "bouclier": 40,
       "armure": 1,
-      "attributs": [
-        "Mécanique",
-        "Psionique"
-      ],
+      "attributs": ["Mécanique", "Psionique"],
       "armes": [],
       "tempsProduction": 22.9,
       "aerienne": false,
@@ -4412,10 +4338,7 @@
       "pv": 70,
       "bouclier": 70,
       "armure": 1,
-      "attributs": [
-        "Léger",
-        "Biologique"
-      ],
+      "attributs": ["Léger", "Biologique"],
       "armes": [
         {
           "degats": 10,
@@ -4744,11 +4667,7 @@
       "pv": 40,
       "bouclier": 40,
       "armure": 0,
-      "attributs": [
-        "Léger",
-        "Biologique",
-        "Psionique"
-      ],
+      "attributs": ["Léger", "Biologique", "Psionique"],
       "armes": [
         {
           "degats": 4,
@@ -5074,11 +4993,7 @@
       "pv": 40,
       "bouclier": 80,
       "armure": 1,
-      "attributs": [
-        "Léger",
-        "Biologique",
-        "Psionique"
-      ],
+      "attributs": ["Léger", "Biologique", "Psionique"],
       "armes": [
         {
           "degats": 45,
@@ -5352,10 +5267,7 @@
       "pv": 10,
       "bouclier": 350,
       "armure": 0,
-      "attributs": [
-        "Psionique",
-        "Massif"
-      ],
+      "attributs": ["Psionique", "Massif"],
       "armes": [
         {
           "degats": 25,
@@ -5625,10 +5537,7 @@
       "pv": 40,
       "bouclier": 30,
       "armure": 0,
-      "attributs": [
-        "Léger",
-        "Mécanique"
-      ],
+      "attributs": ["Léger", "Mécanique"],
       "armes": [],
       "tempsProduction": 17.9,
       "aerienne": true,
@@ -5707,11 +5616,7 @@
       "pv": 80,
       "bouclier": 100,
       "armure": 0,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Psionique"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Psionique"],
       "armes": [],
       "tempsProduction": 35.7,
       "aerienne": true,
@@ -5762,10 +5667,7 @@
       "pv": 200,
       "bouclier": 100,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique"
-      ],
+      "attributs": ["Blindé", "Mécanique"],
       "armes": [
         {
           "degats": 20,
@@ -6021,11 +5923,7 @@
       "pv": 250,
       "bouclier": 100,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Massif"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Massif"],
       "armes": [
         {
           "degats": 10,
@@ -6298,10 +6196,7 @@
       "pv": 100,
       "bouclier": 100,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique"
-      ],
+      "attributs": ["Blindé", "Mécanique"],
       "armes": [],
       "tempsProduction": 35.7,
       "aerienne": false,
@@ -6531,10 +6426,7 @@
       "pv": 120,
       "bouclier": 60,
       "armure": 0,
-      "attributs": [
-        "Léger",
-        "Mécanique"
-      ],
+      "attributs": ["Léger", "Mécanique"],
       "armes": [
         {
           "degats": 5,
@@ -6790,10 +6682,7 @@
       "pv": 150,
       "bouclier": 100,
       "armure": 0,
-      "attributs": [
-        "Blindé",
-        "Mécanique"
-      ],
+      "attributs": ["Blindé", "Mécanique"],
       "armes": [],
       "tempsProduction": 43,
       "aerienne": true,
@@ -7045,11 +6934,7 @@
       "pv": 100,
       "bouclier": 60,
       "armure": 0,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Psionique"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Psionique"],
       "armes": [],
       "tempsProduction": 37.1,
       "aerienne": true,
@@ -7302,11 +7187,7 @@
       "pv": 300,
       "bouclier": 150,
       "armure": 2,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Massif"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Massif"],
       "armes": [],
       "tempsProduction": 64.3,
       "aerienne": true,
@@ -7575,11 +7456,7 @@
       "pv": 200,
       "bouclier": 100,
       "armure": 2,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Massif"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Massif"],
       "armes": [
         {
           "degats": 30,
@@ -7849,13 +7726,7 @@
       "pv": 350,
       "bouclier": 350,
       "armure": 2,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Psionique",
-        "Massif",
-        "Héroïque"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Psionique", "Massif", "Héroïque"],
       "armes": [
         {
           "degats": 6,
@@ -8057,10 +7928,7 @@
       "pv": 40,
       "bouclier": 40,
       "armure": 0,
-      "attributs": [
-        "Léger",
-        "Mécanique"
-      ],
+      "attributs": ["Léger", "Mécanique"],
       "armes": [
         {
           "degats": 5,
@@ -8134,10 +8002,7 @@
       "pv": 25,
       "bouclier": 0,
       "armure": 10,
-      "attributs": [
-        "Léger",
-        "Biologique"
-      ],
+      "attributs": ["Léger", "Biologique"],
       "armes": [],
       "tempsProduction": 0,
       "aerienne": false,
@@ -8317,10 +8182,7 @@
       "pv": 40,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Léger",
-        "Biologique"
-      ],
+      "attributs": ["Léger", "Biologique"],
       "armes": [
         {
           "degats": 5,
@@ -8382,10 +8244,7 @@
       "pv": 35,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Léger",
-        "Biologique"
-      ],
+      "attributs": ["Léger", "Biologique"],
       "armes": [
         {
           "degats": 5,
@@ -8677,9 +8536,7 @@
       "pv": 30,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Biologique"
-      ],
+      "attributs": ["Biologique"],
       "armes": [],
       "tempsProduction": 14.3,
       "aerienne": false,
@@ -8916,10 +8773,7 @@
       "pv": 145,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique"
-      ],
+      "attributs": ["Blindé", "Biologique"],
       "armes": [
         {
           "degats": 16,
@@ -9225,9 +9079,7 @@
       "pv": 120,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Biologique"
-      ],
+      "attributs": ["Biologique"],
       "armes": [
         {
           "degats": 16,
@@ -9495,10 +9347,7 @@
       "pv": 90,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Léger",
-        "Biologique"
-      ],
+      "attributs": ["Léger", "Biologique"],
       "armes": [
         {
           "degats": 12,
@@ -9804,10 +9653,7 @@
       "pv": 190,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique"
-      ],
+      "attributs": ["Blindé", "Biologique"],
       "armes": [],
       "tempsProduction": 24.7,
       "aerienne": false,
@@ -9942,10 +9788,7 @@
       "pv": 175,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Biologique",
-        "Psionique"
-      ],
+      "attributs": ["Biologique", "Psionique"],
       "armes": [
         {
           "degats": 9,
@@ -10139,11 +9982,7 @@
       "pv": 90,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Psionique"
-      ],
+      "attributs": ["Blindé", "Biologique", "Psionique"],
       "armes": [],
       "tempsProduction": 35.7,
       "aerienne": false,
@@ -10387,10 +10226,7 @@
       "pv": 160,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique"
-      ],
+      "attributs": ["Blindé", "Biologique"],
       "armes": [],
       "tempsProduction": 28.6,
       "aerienne": false,
@@ -10472,10 +10308,7 @@
       "pv": 50,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Léger",
-        "Biologique"
-      ],
+      "attributs": ["Léger", "Biologique"],
       "armes": [
         {
           "degats": 10,
@@ -10550,10 +10383,7 @@
       "pv": 120,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Léger",
-        "Biologique"
-      ],
+      "attributs": ["Léger", "Biologique"],
       "armes": [
         {
           "degats": 9,
@@ -10785,10 +10615,7 @@
       "pv": 200,
       "bouclier": 0,
       "armure": 2,
-      "attributs": [
-        "Blindé",
-        "Biologique"
-      ],
+      "attributs": ["Blindé", "Biologique"],
       "armes": [
         {
           "degats": 14,
@@ -11039,11 +10866,7 @@
       "pv": 225,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Massif"
-      ],
+      "attributs": ["Blindé", "Biologique", "Massif"],
       "armes": [
         {
           "degats": 20,
@@ -11189,11 +11012,7 @@
       "pv": 500,
       "bouclier": 0,
       "armure": 2,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Massif"
-      ],
+      "attributs": ["Blindé", "Biologique", "Massif"],
       "armes": [
         {
           "degats": 35,
@@ -11485,11 +11304,7 @@
       "pv": 150,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Psionique"
-      ],
+      "attributs": ["Blindé", "Biologique", "Psionique"],
       "armes": [],
       "tempsProduction": 28.6,
       "aerienne": true,
@@ -11733,10 +11548,7 @@
       "pv": 200,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Blindé",
-        "Biologique"
-      ],
+      "attributs": ["Blindé", "Biologique"],
       "armes": [],
       "tempsProduction": 17.9,
       "aerienne": true,
@@ -11886,10 +11698,7 @@
       "pv": 200,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique"
-      ],
+      "attributs": ["Blindé", "Biologique"],
       "armes": [],
       "tempsProduction": 11.9,
       "aerienne": true,
@@ -12103,10 +11912,7 @@
       "pv": 5,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Léger",
-        "Biologique"
-      ],
+      "attributs": ["Léger", "Biologique"],
       "armes": [],
       "tempsProduction": 0,
       "aerienne": false,
@@ -12159,11 +11965,7 @@
       "pv": 1500,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Structure"],
       "armes": [],
       "tempsConstruction": 71.4,
       "contraintes": {
@@ -12245,11 +12047,7 @@
       "pv": 1500,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Structure"],
       "armes": [],
       "tempsConstruction": 25,
       "contraintes": {
@@ -12318,11 +12116,7 @@
       "pv": 1500,
       "bouclier": 0,
       "armure": 2,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Structure"],
       "armes": [
         {
           "degats": 40,
@@ -12482,11 +12276,7 @@
       "pv": 400,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Structure"],
       "armes": [],
       "tempsConstruction": 21.4,
       "contraintes": {
@@ -12527,11 +12317,7 @@
       "pv": 500,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Structure"],
       "armes": [],
       "tempsConstruction": 21.4,
       "contraintes": {
@@ -12572,11 +12358,7 @@
       "pv": 1000,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Structure"],
       "armes": [],
       "tempsConstruction": 46.4,
       "contraintes": {
@@ -12670,11 +12452,7 @@
       "pv": 850,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Structure"],
       "armes": [],
       "tempsConstruction": 25,
       "contraintes": {
@@ -12917,11 +12695,7 @@
       "pv": 250,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Structure"],
       "armes": [
         {
           "degats": 12,
@@ -13001,11 +12775,7 @@
       "pv": 400,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Structure"],
       "armes": [],
       "tempsConstruction": 28.6,
       "contraintes": {
@@ -13126,11 +12896,7 @@
       "pv": 200,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Structure"],
       "armes": [],
       "tempsConstruction": 17.9,
       "contraintes": {
@@ -13171,11 +12937,7 @@
       "pv": 1250,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Structure"],
       "armes": [],
       "tempsConstruction": 28.6,
       "contraintes": {
@@ -13243,11 +13005,7 @@
       "pv": 1250,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Structure"],
       "armes": [],
       "tempsConstruction": 42.9,
       "contraintes": {
@@ -13367,11 +13125,7 @@
       "pv": 1300,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Structure"],
       "armes": [],
       "tempsConstruction": 35.7,
       "contraintes": {
@@ -13491,11 +13245,7 @@
       "pv": 750,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Structure"],
       "armes": [],
       "tempsConstruction": 46.4,
       "contraintes": {
@@ -13763,11 +13513,7 @@
       "pv": 750,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Structure"],
       "armes": [],
       "tempsConstruction": 46.4,
       "contraintes": {
@@ -13886,11 +13632,7 @@
       "pv": 400,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Structure"],
       "armes": [],
       "tempsConstruction": 0.1,
       "contraintes": {
@@ -14097,11 +13839,7 @@
       "pv": 400,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Mécanique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Mécanique", "Structure"],
       "armes": [],
       "tempsConstruction": 0.1,
       "contraintes": {
@@ -14142,10 +13880,7 @@
       "pv": 1000,
       "bouclier": 1000,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Structure"],
       "armes": [],
       "tempsConstruction": 71.4,
       "contraintes": {
@@ -14213,10 +13948,7 @@
       "pv": 200,
       "bouclier": 200,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Structure"],
       "armes": [],
       "tempsConstruction": 17.9,
       "contraintes": {
@@ -14257,10 +13989,7 @@
       "pv": 300,
       "bouclier": 300,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Structure"],
       "armes": [],
       "tempsConstruction": 21.4,
       "contraintes": {
@@ -14301,10 +14030,7 @@
       "pv": 500,
       "bouclier": 500,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Structure"],
       "armes": [],
       "tempsConstruction": 46.4,
       "contraintes": {
@@ -14452,10 +14178,7 @@
       "pv": 500,
       "bouclier": 500,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Structure"],
       "armes": [],
       "tempsConstruction": 7.1,
       "contraintes": {
@@ -14603,10 +14326,7 @@
       "pv": 400,
       "bouclier": 400,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Structure"],
       "armes": [],
       "tempsConstruction": 32.1,
       "contraintes": {
@@ -14874,10 +14594,7 @@
       "pv": 500,
       "bouclier": 500,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Structure"],
       "armes": [],
       "tempsConstruction": 42.9,
       "contraintes": {
@@ -14995,10 +14712,7 @@
       "pv": 500,
       "bouclier": 500,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Structure"],
       "armes": [],
       "tempsConstruction": 35.7,
       "contraintes": {
@@ -15117,10 +14831,7 @@
       "pv": 150,
       "bouclier": 150,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Structure"],
       "armes": [
         {
           "degats": 20,
@@ -15200,10 +14911,7 @@
       "pv": 600,
       "bouclier": 600,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Structure"],
       "armes": [],
       "tempsConstruction": 42.9,
       "contraintes": {
@@ -15310,10 +15018,7 @@
       "pv": 500,
       "bouclier": 500,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Structure"],
       "armes": [],
       "tempsConstruction": 35.7,
       "contraintes": {
@@ -15381,10 +15086,7 @@
       "pv": 500,
       "bouclier": 500,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Structure"],
       "armes": [],
       "tempsConstruction": 71.4,
       "contraintes": {
@@ -15452,10 +15154,7 @@
       "pv": 500,
       "bouclier": 500,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Structure"],
       "armes": [],
       "tempsConstruction": 46.4,
       "contraintes": {
@@ -15573,10 +15272,7 @@
       "pv": 450,
       "bouclier": 450,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Structure"],
       "armes": [],
       "tempsConstruction": 46.4,
       "contraintes": {
@@ -15683,10 +15379,7 @@
       "pv": 550,
       "bouclier": 550,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Structure"],
       "armes": [],
       "tempsConstruction": 35.7,
       "contraintes": {
@@ -15904,10 +15597,7 @@
       "pv": 200,
       "bouclier": 200,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Structure"],
       "armes": [],
       "tempsConstruction": 28.6,
       "contraintes": {
@@ -15948,11 +15638,7 @@
       "pv": 1500,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Biologique", "Structure"],
       "armes": [],
       "tempsConstruction": 71.4,
       "contraintes": {
@@ -16059,11 +15745,7 @@
       "pv": 2000,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Biologique", "Structure"],
       "armes": [],
       "tempsConstruction": 57.1,
       "contraintes": {
@@ -16159,11 +15841,7 @@
       "pv": 2500,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Biologique", "Structure"],
       "armes": [],
       "tempsConstruction": 71.4,
       "contraintes": {
@@ -16245,11 +15923,7 @@
       "pv": 500,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Biologique", "Structure"],
       "armes": [],
       "tempsConstruction": 21.4,
       "contraintes": {
@@ -16290,11 +15964,7 @@
       "pv": 1000,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Biologique", "Structure"],
       "armes": [],
       "tempsConstruction": 46.4,
       "contraintes": {
@@ -16387,11 +16057,7 @@
       "pv": 750,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Biologique", "Structure"],
       "armes": [],
       "tempsConstruction": 25,
       "contraintes": {
@@ -16659,11 +16325,7 @@
       "pv": 850,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Biologique", "Structure"],
       "armes": [],
       "tempsConstruction": 28.6,
       "contraintes": {
@@ -16781,11 +16443,7 @@
       "pv": 850,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Biologique", "Structure"],
       "armes": [],
       "tempsConstruction": 71.4,
       "contraintes": {
@@ -16992,11 +16650,7 @@
       "pv": 1000,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Biologique", "Structure"],
       "armes": [],
       "tempsConstruction": 71.4,
       "contraintes": {
@@ -17130,11 +16784,7 @@
       "pv": 850,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Biologique", "Structure"],
       "armes": [],
       "tempsConstruction": 46.4,
       "contraintes": {
@@ -17227,11 +16877,7 @@
       "pv": 850,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Biologique", "Structure"],
       "armes": [],
       "tempsConstruction": 35.7,
       "contraintes": {
@@ -17299,11 +16945,7 @@
       "pv": 850,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Biologique", "Structure"],
       "armes": [],
       "tempsConstruction": 35.7,
       "contraintes": {
@@ -17344,11 +16986,7 @@
       "pv": 300,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Biologique", "Structure"],
       "armes": [],
       "tempsConstruction": 14.3,
       "contraintes": {
@@ -17389,11 +17027,7 @@
       "pv": 850,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Biologique", "Structure"],
       "armes": [],
       "tempsConstruction": 42.9,
       "contraintes": {
@@ -17461,11 +17095,7 @@
       "pv": 850,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Biologique", "Structure"],
       "armes": [],
       "tempsConstruction": 39.3,
       "contraintes": {
@@ -17558,11 +17188,7 @@
       "pv": 300,
       "bouclier": 0,
       "armure": 2,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Biologique", "Structure"],
       "armes": [
         {
           "degats": 25,
@@ -17647,11 +17273,7 @@
       "pv": 300,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Biologique", "Structure"],
       "armes": [
         {
           "degats": 20,
@@ -17736,11 +17358,7 @@
       "pv": 850,
       "bouclier": 0,
       "armure": 1,
-      "attributs": [
-        "Blindé",
-        "Biologique",
-        "Structure"
-      ],
+      "attributs": ["Blindé", "Biologique", "Structure"],
       "armes": [],
       "tempsConstruction": 57.1,
       "contraintes": {
@@ -17833,11 +17451,7 @@
       "pv": 50,
       "bouclier": 0,
       "armure": 0,
-      "attributs": [
-        "Léger",
-        "Biologique",
-        "Structure"
-      ],
+      "attributs": ["Léger", "Biologique", "Structure"],
       "armes": [],
       "tempsConstruction": 10.7,
       "contraintes": {
