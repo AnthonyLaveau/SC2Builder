@@ -1,3 +1,5 @@
+import type { EntityReference } from "./EntityReference";
+
 type UpgradeEntity = {
   id: number;
   nom: string;
@@ -18,7 +20,7 @@ type UpgradeBase = {
     temps: number;
   };
   construitDans: UpgradeEntity | null;
-  pourUnite: UpgradeEntity[];
+  pourUnite: EntityReference[];
 };
 
 export type Upgrade =

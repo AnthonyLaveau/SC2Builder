@@ -598,7 +598,7 @@ input {
   display: inline-flex;
   gap: 6px;
   align-items: center;
-  font: 8px var(--mono);
+  font: 12px var(--mono);
   letter-spacing: 1.1px;
   color: var(--accent);
   background: #0b1522c9;
@@ -822,7 +822,7 @@ input {
   gap: 7px;
 }
 .tag {
-  font: 9px var(--mono);
+  font: 11px var(--mono);
   padding: 5px 8px;
   background: #182432;
   border: 1px solid var(--line);
@@ -833,7 +833,7 @@ input {
   align-items: center;
   gap: 9px;
   color: var(--accent);
-  font: 10px var(--mono);
+  font: 14px var(--mono);
   letter-spacing: 1px;
 }
 .detail-faction:hover {
@@ -871,17 +871,23 @@ input {
   padding: 16px 18px;
   background: #111e2d;
   border-left: 2px solid var(--accent);
-  font: 12px var(--mono);
+  font: 14px var(--mono);
 }
 .cost-bar small {
   display: block;
   color: #8199b0;
-  font-size: 8px;
+  font-size: 12px;
   margin-bottom: 8px;
   text-transform: uppercase;
 }
 .cost-bar strong {
   font-weight: 400;
+}
+.cost-bar img {
+  width: 24px;
+  height: 24px;
+  margin-right: 5px;
+  display: inline;
 }
 .detail-section {
   margin-top: 33px;
@@ -910,7 +916,7 @@ input {
   background: #0e1825;
 }
 .relation-box h3 {
-  font: 9px var(--mono);
+  font: 14px var(--mono);
   letter-spacing: 1px;
   color: #8da6bf;
   margin-bottom: 14px;
@@ -1156,7 +1162,7 @@ input {
     font-size: 8px;
   }
   .faction-badge {
-    font-size: 7px;
+    font-size: 9px;
     padding: 3px 5px;
     left: 8px;
     top: 8px;

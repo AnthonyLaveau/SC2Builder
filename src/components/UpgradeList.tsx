@@ -8,18 +8,19 @@ type UpgradeListProps = {
 
 export function UpgradeList({ upgrades }: UpgradeListProps) {
   const [search, setSearch] = useState("");
-  // const [faction, setFaction] = useState("all");
-  const [faction, setFaction] = useState(() => {
-    const params = new URLSearchParams(window.location.search);
-    const factionParam = params.get("faction");
+  const [faction, setFaction] = useState("all");
+  // const [faction, setFaction] = useState(() => {
+  //   const params = new URLSearchParams(window.location.search);
+  //   const factionParam = params.get("faction");
 
-    const factionName = ["Terran", "Protoss", "Zerg"].find(
-      (name) => name.toLowerCase() === factionParam,
-    );
+  //   const factionName = ["Terran", "Protoss", "Zerg"].find(
+  //     (name) => name.toLowerCase() === factionParam,
+  //   );
 
-    return factionName ?? "all";
-  });
+  //   return factionName ?? "all";
+  // });
   const [sortOrder, setSortOrder] = useState("default");
+  const [filterOrder, setFilterOrder] = useState("all");
   const visibleUpgrades = upgrades.filter((upgrade) => {
     const matchesSearch = upgrade.nom
       .toLowerCase()
@@ -27,7 +28,10 @@ export function UpgradeList({ upgrades }: UpgradeListProps) {
 
     const matchesFaction = faction === "all" || upgrade.faction.nom === faction;
 
-    return matchesSearch && matchesFaction;
+    const matchesFilter =
+      filterOrder === "all" || upgrade.categorie === filterOrder;
+
+    return matchesSearch && matchesFaction && matchesFilter;
   });
 
   const sortedUpgrades = [...visibleUpgrades].sort((a, b) => {
@@ -116,6 +120,22 @@ export function UpgradeList({ upgrades }: UpgradeListProps) {
               <option value="default">Par défaut</option>
               <option value="az">Nom : A → Z</option>
               <option value="za">Nom : Z → A</option>
+            </select>
+          </div>
+
+          <div className="control-group">
+            <label className="control-label" htmlFor="capacity-sort">
+              Filtrer par
+            </label>
+
+            <select
+              id="capacity-sort"
+              value={filterOrder}
+              onChange={(event) => setFilterOrder(event.currentTarget.value)}
+            >
+              <option value="all">Tous les types</option>
+              <option value="capacite">Capacités</option>
+              <option value="passif">Passifs</option>
             </select>
           </div>
           <button

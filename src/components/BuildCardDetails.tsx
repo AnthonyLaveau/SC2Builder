@@ -88,39 +88,50 @@ export function BuildCardDetails({ building }: BuildCardDetailsProps) {
             ))}
           </dl>
 
-          {building.armes.length === 0 && <p>Aucune arme renseignée.</p>}
+          {/* {building.armes.length === 0 && <p>Aucune arme renseignée.</p>} */}
 
           <div className="cost-bar">
             <div>
               <small>Minerais</small>
-              <strong>{building.cout.minerais}</strong>
+              <strong>{building.cout.minerais} </strong>
+              <img
+                src="/src/assets/images/icon-mineral.png"
+                alt="Minerais"
+                className="cost-icon"
+              />
             </div>
 
             <div>
               <small>Gaz</small>
-              <strong>{building.cout.gaz}</strong>
+              <strong>{building.cout.gaz} </strong>
+              <img
+                src="/src/assets/images/icon-gas.png"
+                alt="Gaz"
+                className="cost-icon"
+              />
             </div>
 
             <div>
               <small>Temps de construction</small>
-              <strong>{building.tempsConstruction} s</strong>
+              <strong>{Math.round(building.tempsConstruction)}s </strong>
+              <img
+                src="/src/assets/images/icon-time-protoss.png"
+                alt="Temps de production"
+                className="cost-icon"
+              />
             </div>
 
             <div>
               <small>Ravitaillement fourni</small>
-              <strong>{building.ravitaillementFourni}</strong>
+              <strong>{building.ravitaillementFourni} </strong>
+              <img
+                src="/src/assets/images/icon-supply-terran.png"
+                alt="Ravaitaillement"
+                className="cost-icon"
+              />
             </div>
           </div>
-          {building.produit.length > 0 && (
-            <section className="detail-section">
-              <h2>Production</h2>
 
-              <UnitRelations
-                title="Unités produites"
-                units={building.produit}
-              />
-            </section>
-          )}
           {(building.evolueDepuis.length > 0 ||
             building.evolueVers.length > 0) && (
             <section className="detail-section">
@@ -143,13 +154,26 @@ export function BuildCardDetails({ building }: BuildCardDetailsProps) {
           )}
         </div>
       </div>
+      {building.produit.length > 0 && (
+        <section className="detail-section">
+          <h2>Production</h2>
+
+          <UnitRelations title="Unités produites" units={building.produit} />
+        </section>
+      )}
       <section className="detail-section">
         <h2>Capacités à rechercher</h2>
-        <UpgradeRelations title="Recherches disponibles" upgrades={building.capacites} />
+        <UpgradeRelations
+          title="Recherches disponibles"
+          upgrades={building.capacites}
+        />
       </section>
       <section className="detail-section">
         <h2>Passifs à rechercher</h2>
-        <UpgradeRelations title="Recherches disponibles" upgrades={building.passifs} />
+        <UpgradeRelations
+          title="Recherches disponibles"
+          upgrades={building.passifs}
+        />
       </section>
     </section>
   );
