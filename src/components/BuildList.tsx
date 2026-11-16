@@ -9,16 +9,6 @@ type BuildListProps = {
 export function BuildList({ buildings }: BuildListProps) {
   const [search, setSearch] = useState("");
   const [faction, setFaction] = useState("all");
-  // const [faction, setFaction] = useState(() => {
-  //   const params = new URLSearchParams(window.location.search);
-  //   const factionParam = params.get("faction");
-
-  //   const factionName = ["Terran", "Protoss", "Zerg"].find(
-  //     (name) => name.toLowerCase() === factionParam,
-  //   );
-
-  //   return factionName ?? "all";
-  // });
   const [sortOrder, setSortOrder] = useState("default");
   const visibleBuildings = buildings.filter((building) => {
     const matchesSearch = building.nom

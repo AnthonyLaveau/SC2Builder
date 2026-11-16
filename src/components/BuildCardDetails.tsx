@@ -88,8 +88,6 @@ export function BuildCardDetails({ building }: BuildCardDetailsProps) {
             ))}
           </dl>
 
-          {/* {building.armes.length === 0 && <p>Aucune arme renseignée.</p>} */}
-
           <div className="cost-bar">
             <div>
               <small>Minerais</small>

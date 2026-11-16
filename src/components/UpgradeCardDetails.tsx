@@ -75,7 +75,7 @@ export function UpgradeCardDetails({ upgrade }: UpgradeCardDetailsProps) {
 
               <div>
                 <small>Temps de recherche</small>
-                <strong>{upgrade.coutRecherche.temps} </strong>
+                <strong>{Math.round(upgrade.coutRecherche.temps)}s </strong>
                 <img
                   src="/src/assets/images/icon-time-protoss.png"
                   alt="Temps de production"

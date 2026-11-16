@@ -39,7 +39,9 @@ export function BuildCard({ building }: BuildCardProps) {
               {building.cout.gaz}
             </span>
 
-            <span className="time">{building.tempsConstruction} s</span>
+            <span className="time">
+              {Math.round(building.tempsConstruction)} s
+            </span>
           </div>
         </div>
       </article>

@@ -39,7 +39,7 @@ export function UnitCard({ unit /*onSelect */ }: UnitCardProps) {
               {unit.cout.gaz}
             </span>
 
-            <span className="time">{unit.tempsProduction} s</span>
+            <span className="time">{Math.round(unit.tempsProduction)} s</span>
           </div>
         </div>
       </article>
