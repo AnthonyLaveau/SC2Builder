@@ -110,7 +110,7 @@ export function UnitCardDetails({ unit }: UnitCardDetailsProps) {
 
             <div>
               <small>Temps de production</small>
-              <strong>{Math.round(unit.tempsProduction)} </strong>
+              <strong>{Math.round(unit.tempsProduction)}s </strong>
               <img
                 src="/src/assets/images/icon-time-protoss.png"
                 alt="Temps de production"

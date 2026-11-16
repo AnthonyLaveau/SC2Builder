@@ -41,7 +41,9 @@ export function UpgradeCard({ upgrade }: UpgradeCardProps) {
               {upgrade.coutRecherche.gaz}
             </span>
 
-            <span className="time">{upgrade.coutRecherche.temps} s</span>
+            <span className="time">
+              {Math.round(upgrade.coutRecherche.temps)} s
+            </span>
           </div>
         </div>
       </article>
