@@ -1,10 +1,12 @@
 import type { Build } from "../models/Build";
 import { toSlug } from "../models/toSlug";
 
+//typage de la propriété building pour le composant BuildCard
 type BuildCardProps = {
   building: Build;
 };
 
+// Composant BuildCard qui affiche les informations d'un bâtiment sous forme de carte cliquable
 export function BuildCard({ building }: BuildCardProps) {
   return (
     <a
@@ -13,7 +15,7 @@ export function BuildCard({ building }: BuildCardProps) {
       <article className="entity-card" data-faction={building.faction.id}>
         <div className="card-visual">
           <span className="faction-badge">{building.faction.nom}</span>
-
+          {/* Affiche l'image du bâtiment si elle est disponible, sinon affiche un message indiquant que l'image est indisponible */}
           {building.image && (
             <img src={building.image} alt={building.nom} loading="lazy" />
           )}

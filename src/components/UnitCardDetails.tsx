@@ -5,11 +5,7 @@ import { UnitRelations } from "./UnitRelations";
 import { BuildRelations } from "./BuildRelations";
 import { UpgradeRelations } from "./UpgradeRelations";
 
-type UnitCardDetailsProps = {
-  unit: Unit;
-};
-
-export function UnitCardDetails({ unit }: UnitCardDetailsProps) {
+export function UnitCardDetails({ unit }: { unit: Unit }) {
   return (
     <section className="detail-page page" data-faction={unit.faction.id}>
       <a className="button" href="/unites">

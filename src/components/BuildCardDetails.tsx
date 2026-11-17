@@ -5,10 +5,12 @@ import { UnitRelations } from "./UnitRelations";
 import { BuildRelations } from "./BuildRelations";
 import { UpgradeRelations } from "./UpgradeRelations";
 
+// Typage de la propriété building pour le composant BuildCardDetails
 type BuildCardDetailsProps = {
   building: Build;
 };
 
+// Composant BuildCardDetails qui affiche les détails d'un bâtiment
 export function BuildCardDetails({ building }: BuildCardDetailsProps) {
   return (
     <section className="detail-page page" data-faction={building.faction.id}>
@@ -29,7 +31,7 @@ export function BuildCardDetails({ building }: BuildCardDetailsProps) {
           {building.faction.nom}
         </a>
       </div>
-
+      {/* Affiche l'image du bâtiment si elle est disponible, sinon affiche un message indiquant que l'image est indisponible */}
       <div className="detail-grid">
         <div className="detail-visual">
           <span className="faction-badge">{building.faction.nom}</span>

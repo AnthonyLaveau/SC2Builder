@@ -8794,7 +8794,7 @@
               "batiment": {
                 "id": 89,
                 "type": "batiment",
-                "nom": "Bassin de ponte",
+                "nom": "Bassin génétique",
                 "image": "/src/assets/images/buildings/bassin-de-ponte.png",
                 "faction": {
                   "id": "zerg",
@@ -8804,7 +8804,7 @@
                 },
                 "lien": "/batiments/89"
               },
-              "libelle": "Nécessite : Bassin de ponte"
+              "libelle": "Nécessite : Bassin génétique"
             }
           ]
         }
@@ -11072,7 +11072,7 @@
               "batiment": {
                 "id": 92,
                 "type": "batiment",
-                "nom": "Spire",
+                "nom": "Aiguille",
                 "image": "/src/assets/images/buildings/spire.png",
                 "faction": {
                   "id": "zerg",
@@ -11082,7 +11082,7 @@
                 },
                 "lien": "/batiments/92"
               },
-              "libelle": "Nécessite : Spire"
+              "libelle": "Nécessite : Aiguille"
             }
           ]
         }
@@ -11318,7 +11318,7 @@
               "batiment": {
                 "id": 92,
                 "type": "batiment",
-                "nom": "Spire",
+                "nom": "Aiguille",
                 "image": "/src/assets/images/buildings/spire.png",
                 "faction": {
                   "id": "zerg",
@@ -11328,7 +11328,7 @@
                 },
                 "lien": "/batiments/92"
               },
-              "libelle": "Nécessite : Spire"
+              "libelle": "Nécessite : Aiguille"
             }
           ]
         }
@@ -11574,7 +11574,7 @@
               "batiment": {
                 "id": 102,
                 "type": "batiment",
-                "nom": "Grande spire",
+                "nom": "Grande aiguille",
                 "image": "/src/assets/images/buildings/grande-spire.png",
                 "faction": {
                   "id": "zerg",
@@ -11584,7 +11584,7 @@
                 },
                 "lien": "/batiments/102"
               },
-              "libelle": "Nécessite : Grande spire"
+              "libelle": "Nécessite : Grande aiguille"
             }
           ]
         }
@@ -16812,7 +16812,7 @@
     },
     {
       "id": 89,
-      "nom": "Bassin de ponte",
+      "nom": "Bassin génétique",
       "nomVerifie": false,
       "nomTechnique": "SpawningPool",
       "faction": {
@@ -17317,9 +17317,9 @@
     },
     {
       "id": 92,
-      "nom": "Spire",
+      "nom": "Aiguille",
       "nomVerifie": false,
-      "nomTechnique": "Spire",
+      "nomTechnique": "Aiguille",
       "faction": {
         "id": "zerg",
         "nom": "Zerg",
@@ -17354,7 +17354,7 @@
         {
           "id": 102,
           "type": "batiment",
-          "nom": "Grande spire",
+          "nom": "Grande aiguille",
           "image": "/src/assets/images/buildings/grande-spire.png",
           "faction": {
             "id": "zerg",
@@ -17448,7 +17448,7 @@
         }
       ],
       "capacites": [],
-      "imageSource": "https://liquipedia.net/starcraft2/File:SC2Spire.jpg",
+      "imageSource": "https://liquipedia.net/starcraft2/File:SC2Aiguille.jpg",
       "fortContre": [],
       "faibleContre": [],
       "passifs": [
@@ -17534,9 +17534,9 @@
     },
     {
       "id": 102,
-      "nom": "Grande spire",
+      "nom": "Grande aiguille",
       "nomVerifie": false,
-      "nomTechnique": "GreaterSpire",
+      "nomTechnique": "GreaterAiguille",
       "faction": {
         "id": "zerg",
         "nom": "Zerg",
@@ -17573,7 +17573,7 @@
         {
           "id": 92,
           "type": "batiment",
-          "nom": "Spire",
+          "nom": "Aiguille",
           "image": "/src/assets/images/buildings/spire.png",
           "faction": {
             "id": "zerg",
@@ -17665,7 +17665,7 @@
         }
       ],
       "capacites": [],
-      "imageSource": "https://liquipedia.net/starcraft2/File:SC2GreaterSpire.jpg",
+      "imageSource": "https://liquipedia.net/starcraft2/File:SC2GreaterAiguille.jpg",
       "fortContre": [],
       "faibleContre": [],
       "passifs": []
@@ -23876,7 +23876,7 @@
         "construitDans": {
           "id": 92,
           "type": "batiment",
-          "nom": "Spire",
+          "nom": "Aiguille",
           "image": "/src/assets/images/buildings/spire.jpg",
           "faction": {
             "id": "zerg",
@@ -23961,7 +23961,7 @@
         "construitDans": {
           "id": 92,
           "type": "batiment",
-          "nom": "Spire",
+          "nom": "Aiguille",
           "image": "/src/assets/images/buildings/spire.jpg",
           "faction": {
             "id": "zerg",
@@ -24046,7 +24046,7 @@
         "construitDans": {
           "id": 92,
           "type": "batiment",
-          "nom": "Spire",
+          "nom": "Aiguille",
           "image": "/src/assets/images/buildings/spire.jpg",
           "faction": {
             "id": "zerg",
@@ -24131,7 +24131,7 @@
         "construitDans": {
           "id": 92,
           "type": "batiment",
-          "nom": "Spire",
+          "nom": "Aiguille",
           "image": "/src/assets/images/buildings/spire.jpg",
           "faction": {
             "id": "zerg",
@@ -24216,7 +24216,7 @@
         "construitDans": {
           "id": 92,
           "type": "batiment",
-          "nom": "Spire",
+          "nom": "Aiguille",
           "image": "/src/assets/images/buildings/spire.jpg",
           "faction": {
             "id": "zerg",
@@ -24301,7 +24301,7 @@
         "construitDans": {
           "id": 92,
           "type": "batiment",
-          "nom": "Spire",
+          "nom": "Aiguille",
           "image": "/src/assets/images/buildings/spire.jpg",
           "faction": {
             "id": "zerg",
@@ -25782,7 +25782,7 @@
         "construitDans": {
           "id": 89,
           "type": "batiment",
-          "nom": "Bassin de ponte",
+          "nom": "Bassin génétique",
           "image": "/src/assets/images/buildings/bassin-de-ponte.jpg",
           "faction": {
             "id": "zerg",
@@ -25828,7 +25828,7 @@
         "construitDans": {
           "id": 89,
           "type": "batiment",
-          "nom": "Bassin de ponte",
+          "nom": "Bassin génétique",
           "image": "/src/assets/images/buildings/bassin-de-ponte.jpg",
           "faction": {
             "id": "zerg",

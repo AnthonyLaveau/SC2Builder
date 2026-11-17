@@ -1,10 +1,12 @@
 import type { Upgrade } from "../models/Upgrade";
 import { toSlug } from "../models/toSlug";
 
+// Typage des propriétés upgrade pour le composant UpgradeCard
 type UpgradeCardProps = {
   upgrade: Upgrade;
 };
 
+// Composant UpgradeCard qui affiche les informations d'une amélioration sous forme de carte
 export function UpgradeCard({ upgrade }: UpgradeCardProps) {
   return (
     <a

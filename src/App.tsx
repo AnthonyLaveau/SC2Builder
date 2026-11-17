@@ -56,19 +56,23 @@ const upgrades: Upgrade[] = [
   ),
 ];
 
+// Composant principal de l'application qui gère la navigation et l'affichage des différentes pages.
 function App() {
   const path = window.location.pathname;
 
+  // Recherche de l'unité, du bâtiment ou de l'amélioration correspondant à l'URL actuelle.
   const selectedUnit = data.unites.find(
     (unit) => path === `/unites/${toSlug(unit.faction.id)}/${toSlug(unit.nom)}`,
   );
 
+  // Recherche du bâtiment correspondant à l'URL actuelle.
   const selectedBuilding = data.batiments.find(
     (building) =>
       path ===
       `/batiments/${toSlug(building.faction.id)}/${toSlug(building.nom)}`,
   );
 
+  // Recherche de l'amélioration correspondant à l'URL actuelle.
   const selectedUpgrade = upgrades.find(
     (upgrade) =>
       path ===

@@ -1,11 +1,13 @@
 import type { EntityReference } from "../models/EntityReference";
 import { toSlug } from "../models/toSlug";
 
+// Typage des propriétés title et units pour le composant UnitRelations
 type UnitRelationsProps = {
   title: string;
   units: EntityReference[];
 };
 
+// Composant UnitRelations qui affiche une liste d'unités liées à une entité (bâtiment ou amélioration)
 export function UnitRelations({ title, units }: UnitRelationsProps) {
   return (
     <div className="relation-box">

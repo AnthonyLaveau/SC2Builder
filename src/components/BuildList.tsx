@@ -2,25 +2,33 @@ import { useState } from "react";
 import type { Build } from "../models/Build";
 import { BuildCard } from "./BuildCard";
 
+// Typage de la propriété buildings pour le composant BuildList
 type BuildListProps = {
   buildings: Build[];
 };
 
+// Composant BuildList qui affiche une liste de bâtiments avec des filtres et un tri
 export function BuildList({ buildings }: BuildListProps) {
   const [search, setSearch] = useState("");
   const [faction, setFaction] = useState("all");
   const [sortOrder, setSortOrder] = useState("default");
+
+  // Filtrage des bâtiments en fonction de la recherche et de la faction sélectionnée
   const visibleBuildings = buildings.filter((building) => {
+    // Vérifie si le nom du bâtiment correspond à la recherche
     const matchesSearch = building.nom
       .toLowerCase()
       .includes(search.trim().toLowerCase());
 
+    // Vérifie si la faction du bâtiment correspond à la faction sélectionnée
     const matchesFaction =
       faction === "all" || building.faction.nom === faction;
 
+    // Retourne true si le bâtiment correspond à la recherche et à la faction sélectionnée
     return matchesSearch && matchesFaction;
   });
 
+  // Tri des bâtiments filtrés en fonction de l'ordre de tri sélectionné
   const sortedBuildings = [...visibleBuildings].sort((a, b) => {
     if (sortOrder === "az") {
       return a.nom.localeCompare(b.nom, "fr", { sensitivity: "base" });
@@ -30,6 +38,8 @@ export function BuildList({ buildings }: BuildListProps) {
     }
     return a.id - b.id;
   });
+
+  // Fonction pour réinitialiser les filtres et le tri
   function resetFilters() {
     setSearch("");
     setFaction("all");
@@ -59,7 +69,7 @@ export function BuildList({ buildings }: BuildListProps) {
         <div className="section-heading">
           <h2 id="catalog-title">Répertoire des bâtiments</h2>
         </div>
-
+        {/* Filtres et tri des bâtiments */}
         <div
           className="faction-tabs"
           role="group"
@@ -71,7 +81,6 @@ export function BuildList({ buildings }: BuildListProps) {
               type="button"
               className={`faction-tab ${faction === value ? "active" : ""}`}
               data-faction={value.toLowerCase()}
-              aria-pressed={faction === value}
               onClick={() => setFaction(value)}
             >
               <span>
@@ -113,25 +122,21 @@ export function BuildList({ buildings }: BuildListProps) {
             type="button"
             className="reset"
             onClick={resetFilters}
-            aria-label="Réinitialiser les filtres et le tri"
             title="Réinitialiser les filtres et le tri"
           >
             ↺
           </button>
         </div>
-
         <div className="results-line">
           <span role="status">
             {visibleBuildings.length} / {buildings.length} bâtiments affichées
           </span>
         </div>
-
         <div className="cards">
           {sortedBuildings.map((building) => (
             <BuildCard key={building.id} building={building} />
           ))}
         </div>
-
         {visibleBuildings.length === 0 && <p>Aucune bâtiments à afficher.</p>}
       </section>
     </>
