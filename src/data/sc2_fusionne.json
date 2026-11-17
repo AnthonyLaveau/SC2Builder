@@ -5400,7 +5400,7 @@
         {
           "id": 141,
           "type": "capacite",
-          "nom": "Pas de l'ombre",
+          "nom": "Brèche d'ombre",
           "image": "/src/assets/images/capacites/pas-de-lombre.jpg",
           "faction": {
             "id": "protoss",
@@ -15635,7 +15635,7 @@
         {
           "id": 141,
           "type": "amelioration",
-          "nom": "Pas de l'ombre",
+          "nom": "Brèche d'ombre",
           "image": "/src/assets/images/capacites/pas-de-lombre.jpg",
           "faction": {
             "id": "protoss",
@@ -15650,7 +15650,7 @@
         {
           "id": 141,
           "type": "capacite",
-          "nom": "Pas de l'ombre",
+          "nom": "Brèche d'ombre",
           "image": "/src/assets/images/capacites/pas-de-lombre.jpg",
           "faction": {
             "id": "protoss",
@@ -18059,7 +18059,7 @@
         },
         "coutActivation": {
           "energie": null,
-          "vie": null
+          "vie": 0
         },
         "coutRecherche": {
           "minerais": 100,
@@ -18225,8 +18225,8 @@
           "lien": "/unites?faction=terran"
         },
         "coutActivation": {
-          "energie": null,
-          "vie": null
+          "energie": 100,
+          "vie": 0
         },
         "coutRecherche": {
           "minerais": 150,
@@ -18273,8 +18273,8 @@
           "lien": "/unites?faction=protoss"
         },
         "coutActivation": {
-          "energie": null,
-          "vie": null
+          "energie": 75,
+          "vie": 0
         },
         "coutRecherche": {
           "minerais": 200,
@@ -18321,8 +18321,8 @@
           "lien": "/unites?faction=protoss"
         },
         "coutActivation": {
-          "energie": null,
-          "vie": null
+          "energie": 0,
+          "vie": 0
         },
         "coutRecherche": {
           "minerais": 150,
@@ -18360,7 +18360,7 @@
       },
       {
         "id": 141,
-        "nom": "Pas de l'ombre",
+        "nom": "Brèche d'ombre",
         "image": "/src/assets/images/capacites/pas-de-lombre.jpg",
         "faction": {
           "id": "protoss",
@@ -18369,8 +18369,8 @@
           "lien": "/unites?faction=protoss"
         },
         "coutActivation": {
-          "energie": null,
-          "vie": null
+          "energie": 0,
+          "vie": 0
         },
         "coutRecherche": {
           "minerais": 100,
@@ -18417,8 +18417,8 @@
           "lien": "/unites?faction=zerg"
         },
         "coutActivation": {
-          "energie": null,
-          "vie": null
+          "energie": 100,
+          "vie": 0
         },
         "coutRecherche": {
           "minerais": 150,
