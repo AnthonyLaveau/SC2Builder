@@ -348,7 +348,7 @@
         {
           "id": 15,
           "type": "capacite",
-          "nom": "Stimpack",
+          "nom": "Stimulant",
           "image": "/src/assets/images/capacites/stim-marine.jpg",
           "faction": {
             "id": "terran",
@@ -364,7 +364,7 @@
         {
           "id": 11,
           "type": "passif",
-          "nom": "Blindage d’infanterie terran niveau 1",
+          "nom": "Blindage d’infanterie niv.1",
           "image": "/src/assets/images/upgrades/blindage-dinfanterie-terran-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -377,7 +377,7 @@
         {
           "id": 12,
           "type": "passif",
-          "nom": "Blindage d’infanterie terran niveau 2",
+          "nom": "Blindage d’infanterie niv.2",
           "image": "/src/assets/images/upgrades/blindage-dinfanterie-terran-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -390,7 +390,7 @@
         {
           "id": 13,
           "type": "passif",
-          "nom": "Blindage d’infanterie terran niveau 3",
+          "nom": "Blindage d’infanterie niv.3",
           "image": "/src/assets/images/upgrades/blindage-dinfanterie-terran-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -403,7 +403,7 @@
         {
           "id": 7,
           "type": "passif",
-          "nom": "Armes d’infanterie terran niveau 1",
+          "nom": "Armes d’infanterie niv.1",
           "image": "/src/assets/images/upgrades/armes-dinfanterie-terran-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -416,7 +416,7 @@
         {
           "id": 8,
           "type": "passif",
-          "nom": "Armes d’infanterie terran niveau 2",
+          "nom": "Armes d’infanterie niv.2",
           "image": "/src/assets/images/upgrades/armes-dinfanterie-terran-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -429,7 +429,7 @@
         {
           "id": 9,
           "type": "passif",
-          "nom": "Armes d’infanterie terran niveau 3",
+          "nom": "Armes d’infanterie niv.3",
           "image": "/src/assets/images/upgrades/armes-dinfanterie-terran-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -585,7 +585,7 @@
         {
           "id": 11,
           "type": "passif",
-          "nom": "Blindage d’infanterie terran niveau 1",
+          "nom": "Blindage d’infanterie niv.1",
           "image": "/src/assets/images/upgrades/blindage-dinfanterie-terran-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -598,7 +598,7 @@
         {
           "id": 12,
           "type": "passif",
-          "nom": "Blindage d’infanterie terran niveau 2",
+          "nom": "Blindage d’infanterie niv.2",
           "image": "/src/assets/images/upgrades/blindage-dinfanterie-terran-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -611,7 +611,7 @@
         {
           "id": 13,
           "type": "passif",
-          "nom": "Blindage d’infanterie terran niveau 3",
+          "nom": "Blindage d’infanterie niv.3",
           "image": "/src/assets/images/upgrades/blindage-dinfanterie-terran-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -624,7 +624,7 @@
         {
           "id": 7,
           "type": "passif",
-          "nom": "Armes d’infanterie terran niveau 1",
+          "nom": "Armes d’infanterie niv.1",
           "image": "/src/assets/images/upgrades/armes-dinfanterie-terran-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -637,7 +637,7 @@
         {
           "id": 8,
           "type": "passif",
-          "nom": "Armes d’infanterie terran niveau 2",
+          "nom": "Armes d’infanterie niv.2",
           "image": "/src/assets/images/upgrades/armes-dinfanterie-terran-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -650,7 +650,7 @@
         {
           "id": 9,
           "type": "passif",
-          "nom": "Armes d’infanterie terran niveau 3",
+          "nom": "Armes d’infanterie niv.3",
           "image": "/src/assets/images/upgrades/armes-dinfanterie-terran-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -826,7 +826,7 @@
         {
           "id": 15,
           "type": "capacite",
-          "nom": "Stimpack",
+          "nom": "Stimulant",
           "image": "/src/assets/images/capacites/stim-marine.jpg",
           "faction": {
             "id": "terran",
@@ -842,7 +842,7 @@
         {
           "id": 11,
           "type": "passif",
-          "nom": "Blindage d’infanterie terran niveau 1",
+          "nom": "Blindage d’infanterie niv.1",
           "image": "/src/assets/images/upgrades/blindage-dinfanterie-terran-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -855,7 +855,7 @@
         {
           "id": 12,
           "type": "passif",
-          "nom": "Blindage d’infanterie terran niveau 2",
+          "nom": "Blindage d’infanterie niv.2",
           "image": "/src/assets/images/upgrades/blindage-dinfanterie-terran-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -868,7 +868,7 @@
         {
           "id": 13,
           "type": "passif",
-          "nom": "Blindage d’infanterie terran niveau 3",
+          "nom": "Blindage d’infanterie niv.3",
           "image": "/src/assets/images/upgrades/blindage-dinfanterie-terran-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -881,7 +881,7 @@
         {
           "id": 7,
           "type": "passif",
-          "nom": "Armes d’infanterie terran niveau 1",
+          "nom": "Armes d’infanterie niv.1",
           "image": "/src/assets/images/upgrades/armes-dinfanterie-terran-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -894,7 +894,7 @@
         {
           "id": 8,
           "type": "passif",
-          "nom": "Armes d’infanterie terran niveau 2",
+          "nom": "Armes d’infanterie niv.2",
           "image": "/src/assets/images/upgrades/armes-dinfanterie-terran-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -907,7 +907,7 @@
         {
           "id": 9,
           "type": "passif",
-          "nom": "Armes d’infanterie terran niveau 3",
+          "nom": "Armes d’infanterie niv.3",
           "image": "/src/assets/images/upgrades/armes-dinfanterie-terran-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -1112,7 +1112,7 @@
         {
           "id": 11,
           "type": "passif",
-          "nom": "Blindage d’infanterie terran niveau 1",
+          "nom": "Blindage d’infanterie niv.1",
           "image": "/src/assets/images/upgrades/blindage-dinfanterie-terran-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -1125,7 +1125,7 @@
         {
           "id": 12,
           "type": "passif",
-          "nom": "Blindage d’infanterie terran niveau 2",
+          "nom": "Blindage d’infanterie niv.2",
           "image": "/src/assets/images/upgrades/blindage-dinfanterie-terran-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -1138,7 +1138,7 @@
         {
           "id": 13,
           "type": "passif",
-          "nom": "Blindage d’infanterie terran niveau 3",
+          "nom": "Blindage d’infanterie niv.3",
           "image": "/src/assets/images/upgrades/blindage-dinfanterie-terran-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -1151,7 +1151,7 @@
         {
           "id": 7,
           "type": "passif",
-          "nom": "Armes d’infanterie terran niveau 1",
+          "nom": "Armes d’infanterie niv.1",
           "image": "/src/assets/images/upgrades/armes-dinfanterie-terran-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -1164,7 +1164,7 @@
         {
           "id": 8,
           "type": "passif",
-          "nom": "Armes d’infanterie terran niveau 2",
+          "nom": "Armes d’infanterie niv.2",
           "image": "/src/assets/images/upgrades/armes-dinfanterie-terran-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -1177,7 +1177,7 @@
         {
           "id": 9,
           "type": "passif",
-          "nom": "Armes d’infanterie terran niveau 3",
+          "nom": "Armes d’infanterie niv.3",
           "image": "/src/assets/images/upgrades/armes-dinfanterie-terran-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -1338,7 +1338,7 @@
         {
           "id": 116,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 1",
+          "nom": "Blindage niv.1",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -1351,7 +1351,7 @@
         {
           "id": 117,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 2",
+          "nom": "Blindage niv.2",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -1364,7 +1364,7 @@
         {
           "id": 118,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 3",
+          "nom": "Blindage niv.3",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -1377,7 +1377,7 @@
         {
           "id": 30,
           "type": "passif",
-          "nom": "Armes des véhicules terrans niveau 1",
+          "nom": "Armes des véhicules niv.1",
           "image": "/src/assets/images/upgrades/armes-des-vehicules-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -1390,7 +1390,7 @@
         {
           "id": 31,
           "type": "passif",
-          "nom": "Armes des véhicules terrans niveau 2",
+          "nom": "Armes des véhicules niv.2",
           "image": "/src/assets/images/upgrades/armes-des-vehicules-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -1403,7 +1403,7 @@
         {
           "id": 32,
           "type": "passif",
-          "nom": "Armes des véhicules terrans niveau 3",
+          "nom": "Armes des véhicules niv.3",
           "image": "/src/assets/images/upgrades/armes-des-vehicules-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -1714,7 +1714,7 @@
         {
           "id": 116,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 1",
+          "nom": "Blindage niv.1",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -1727,7 +1727,7 @@
         {
           "id": 117,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 2",
+          "nom": "Blindage niv.2",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -1740,7 +1740,7 @@
         {
           "id": 118,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 3",
+          "nom": "Blindage niv.3",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -1753,7 +1753,7 @@
         {
           "id": 30,
           "type": "passif",
-          "nom": "Armes des véhicules terrans niveau 1",
+          "nom": "Armes des véhicules niv.1",
           "image": "/src/assets/images/upgrades/armes-des-vehicules-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -1766,7 +1766,7 @@
         {
           "id": 31,
           "type": "passif",
-          "nom": "Armes des véhicules terrans niveau 2",
+          "nom": "Armes des véhicules niv.2",
           "image": "/src/assets/images/upgrades/armes-des-vehicules-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -1779,7 +1779,7 @@
         {
           "id": 32,
           "type": "passif",
-          "nom": "Armes des véhicules terrans niveau 3",
+          "nom": "Armes des véhicules niv.3",
           "image": "/src/assets/images/upgrades/armes-des-vehicules-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -1963,7 +1963,7 @@
         {
           "id": 116,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 1",
+          "nom": "Blindage niv.1",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -1976,7 +1976,7 @@
         {
           "id": 117,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 2",
+          "nom": "Blindage niv.2",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -1989,7 +1989,7 @@
         {
           "id": 118,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 3",
+          "nom": "Blindage niv.3",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -2002,7 +2002,7 @@
         {
           "id": 30,
           "type": "passif",
-          "nom": "Armes des véhicules terrans niveau 1",
+          "nom": "Armes des véhicules niv.1",
           "image": "/src/assets/images/upgrades/armes-des-vehicules-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -2015,7 +2015,7 @@
         {
           "id": 31,
           "type": "passif",
-          "nom": "Armes des véhicules terrans niveau 2",
+          "nom": "Armes des véhicules niv.2",
           "image": "/src/assets/images/upgrades/armes-des-vehicules-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -2028,7 +2028,7 @@
         {
           "id": 32,
           "type": "passif",
-          "nom": "Armes des véhicules terrans niveau 3",
+          "nom": "Armes des véhicules niv.3",
           "image": "/src/assets/images/upgrades/armes-des-vehicules-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -2232,7 +2232,7 @@
         {
           "id": 116,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 1",
+          "nom": "Blindage niv.1",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -2245,7 +2245,7 @@
         {
           "id": 117,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 2",
+          "nom": "Blindage niv.2",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -2258,7 +2258,7 @@
         {
           "id": 118,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 3",
+          "nom": "Blindage niv.3",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -2271,7 +2271,7 @@
         {
           "id": 30,
           "type": "passif",
-          "nom": "Armes des véhicules terrans niveau 1",
+          "nom": "Armes des véhicules niv.1",
           "image": "/src/assets/images/upgrades/armes-des-vehicules-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -2284,7 +2284,7 @@
         {
           "id": 31,
           "type": "passif",
-          "nom": "Armes des véhicules terrans niveau 2",
+          "nom": "Armes des véhicules niv.2",
           "image": "/src/assets/images/upgrades/armes-des-vehicules-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -2297,7 +2297,7 @@
         {
           "id": 32,
           "type": "passif",
-          "nom": "Armes des véhicules terrans niveau 3",
+          "nom": "Armes des véhicules niv.3",
           "image": "/src/assets/images/upgrades/armes-des-vehicules-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -2458,7 +2458,7 @@
         {
           "id": 36,
           "type": "passif",
-          "nom": "Armes des vaisseaux terrans niveau 1",
+          "nom": "Armes des vaisseaux niv.1",
           "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -2471,7 +2471,7 @@
         {
           "id": 37,
           "type": "passif",
-          "nom": "Armes des vaisseaux terrans niveau 2",
+          "nom": "Armes des vaisseaux niv.2",
           "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -2484,7 +2484,7 @@
         {
           "id": 38,
           "type": "passif",
-          "nom": "Armes des vaisseaux terrans niveau 3",
+          "nom": "Armes des vaisseaux niv.3",
           "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -2497,7 +2497,7 @@
         {
           "id": 116,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 1",
+          "nom": "Blindage niv.1",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -2510,7 +2510,7 @@
         {
           "id": 117,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 2",
+          "nom": "Blindage niv.2",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -2523,7 +2523,7 @@
         {
           "id": 118,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 3",
+          "nom": "Blindage niv.3",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -2774,7 +2774,7 @@
         {
           "id": 36,
           "type": "passif",
-          "nom": "Armes des vaisseaux terrans niveau 1",
+          "nom": "Armes des vaisseaux niv.1",
           "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -2787,7 +2787,7 @@
         {
           "id": 37,
           "type": "passif",
-          "nom": "Armes des vaisseaux terrans niveau 2",
+          "nom": "Armes des vaisseaux niv.2",
           "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -2800,7 +2800,7 @@
         {
           "id": 38,
           "type": "passif",
-          "nom": "Armes des vaisseaux terrans niveau 3",
+          "nom": "Armes des vaisseaux niv.3",
           "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -2813,7 +2813,7 @@
         {
           "id": 116,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 1",
+          "nom": "Blindage niv.1",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -2826,7 +2826,7 @@
         {
           "id": 117,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 2",
+          "nom": "Blindage niv.2",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -2839,7 +2839,7 @@
         {
           "id": 118,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 3",
+          "nom": "Blindage niv.3",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -2962,7 +2962,7 @@
         {
           "id": 36,
           "type": "passif",
-          "nom": "Armes des vaisseaux terrans niveau 1",
+          "nom": "Armes des vaisseaux niv.1",
           "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -2975,7 +2975,7 @@
         {
           "id": 37,
           "type": "passif",
-          "nom": "Armes des vaisseaux terrans niveau 2",
+          "nom": "Armes des vaisseaux niv.2",
           "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -2988,7 +2988,7 @@
         {
           "id": 38,
           "type": "passif",
-          "nom": "Armes des vaisseaux terrans niveau 3",
+          "nom": "Armes des vaisseaux niv.3",
           "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -3001,7 +3001,7 @@
         {
           "id": 116,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 1",
+          "nom": "Blindage niv.1",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -3014,7 +3014,7 @@
         {
           "id": 117,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 2",
+          "nom": "Blindage niv.2",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -3027,7 +3027,7 @@
         {
           "id": 118,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 3",
+          "nom": "Blindage niv.3",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -3158,7 +3158,7 @@
         {
           "id": 140,
           "type": "passif",
-          "nom": "Amélioration de portée anti-sol du Libérateur",
+          "nom": "Amélioration de portée anti-sol",
           "image": "/src/assets/images/upgrades/amelioration-de-portee-anti-sol-du-liberateur.jpg",
           "faction": {
             "id": "terran",
@@ -3171,7 +3171,7 @@
         {
           "id": 36,
           "type": "passif",
-          "nom": "Armes des vaisseaux terrans niveau 1",
+          "nom": "Armes des vaisseaux niv.1",
           "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -3184,7 +3184,7 @@
         {
           "id": 37,
           "type": "passif",
-          "nom": "Armes des vaisseaux terrans niveau 2",
+          "nom": "Armes des vaisseaux niv.2",
           "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -3197,7 +3197,7 @@
         {
           "id": 38,
           "type": "passif",
-          "nom": "Armes des vaisseaux terrans niveau 3",
+          "nom": "Armes des vaisseaux niv.3",
           "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -3210,7 +3210,7 @@
         {
           "id": 116,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 1",
+          "nom": "Blindage niv.1",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -3223,7 +3223,7 @@
         {
           "id": 117,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 2",
+          "nom": "Blindage niv.2",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -3236,7 +3236,7 @@
         {
           "id": 118,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 3",
+          "nom": "Blindage niv.3",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -3449,7 +3449,7 @@
         {
           "id": 36,
           "type": "passif",
-          "nom": "Armes des vaisseaux terrans niveau 1",
+          "nom": "Armes des vaisseaux niv.1",
           "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -3462,7 +3462,7 @@
         {
           "id": 37,
           "type": "passif",
-          "nom": "Armes des vaisseaux terrans niveau 2",
+          "nom": "Armes des vaisseaux niv.2",
           "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -3475,7 +3475,7 @@
         {
           "id": 38,
           "type": "passif",
-          "nom": "Armes des vaisseaux terrans niveau 3",
+          "nom": "Armes des vaisseaux niv.3",
           "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -3488,7 +3488,7 @@
         {
           "id": 116,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 1",
+          "nom": "Blindage niv.1",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -3501,7 +3501,7 @@
         {
           "id": 117,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 2",
+          "nom": "Blindage niv.2",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -3514,7 +3514,7 @@
         {
           "id": 118,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 3",
+          "nom": "Blindage niv.3",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -3833,7 +3833,7 @@
         {
           "id": 42,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 1",
+          "nom": "Blindage terrestre protoss niv.1",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -3846,7 +3846,7 @@
         {
           "id": 43,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 2",
+          "nom": "Blindage terrestre protoss niv.2",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -3859,7 +3859,7 @@
         {
           "id": 44,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 3",
+          "nom": "Blindage terrestre protoss niv.3",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -3872,7 +3872,7 @@
         {
           "id": 39,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 1",
+          "nom": "Armes terrestres protoss niv.1",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -3885,7 +3885,7 @@
         {
           "id": 40,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 2",
+          "nom": "Armes terrestres protoss niv.2",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -3898,7 +3898,7 @@
         {
           "id": 41,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 3",
+          "nom": "Armes terrestres protoss niv.3",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -3911,7 +3911,7 @@
         {
           "id": 45,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 1",
+          "nom": "Boucliers protoss niv.1",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -3924,7 +3924,7 @@
         {
           "id": 46,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 2",
+          "nom": "Boucliers protoss niv.2",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -3937,7 +3937,7 @@
         {
           "id": 47,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 3",
+          "nom": "Boucliers protoss niv.3",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -4160,7 +4160,7 @@
         {
           "id": 42,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 1",
+          "nom": "Blindage terrestre protoss niv.1",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -4173,7 +4173,7 @@
         {
           "id": 43,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 2",
+          "nom": "Blindage terrestre protoss niv.2",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -4186,7 +4186,7 @@
         {
           "id": 44,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 3",
+          "nom": "Blindage terrestre protoss niv.3",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -4199,7 +4199,7 @@
         {
           "id": 39,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 1",
+          "nom": "Armes terrestres protoss niv.1",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -4212,7 +4212,7 @@
         {
           "id": 40,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 2",
+          "nom": "Armes terrestres protoss niv.2",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -4225,7 +4225,7 @@
         {
           "id": 41,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 3",
+          "nom": "Armes terrestres protoss niv.3",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -4238,7 +4238,7 @@
         {
           "id": 45,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 1",
+          "nom": "Boucliers protoss niv.1",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -4251,7 +4251,7 @@
         {
           "id": 46,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 2",
+          "nom": "Boucliers protoss niv.2",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -4264,7 +4264,7 @@
         {
           "id": 47,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 3",
+          "nom": "Boucliers protoss niv.3",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -4457,7 +4457,7 @@
         {
           "id": 42,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 1",
+          "nom": "Blindage terrestre protoss niv.1",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -4470,7 +4470,7 @@
         {
           "id": 43,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 2",
+          "nom": "Blindage terrestre protoss niv.2",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -4483,7 +4483,7 @@
         {
           "id": 44,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 3",
+          "nom": "Blindage terrestre protoss niv.3",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -4496,7 +4496,7 @@
         {
           "id": 39,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 1",
+          "nom": "Armes terrestres protoss niv.1",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -4509,7 +4509,7 @@
         {
           "id": 40,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 2",
+          "nom": "Armes terrestres protoss niv.2",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -4522,7 +4522,7 @@
         {
           "id": 41,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 3",
+          "nom": "Armes terrestres protoss niv.3",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -4535,7 +4535,7 @@
         {
           "id": 45,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 1",
+          "nom": "Boucliers protoss niv.1",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -4548,7 +4548,7 @@
         {
           "id": 46,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 2",
+          "nom": "Boucliers protoss niv.2",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -4561,7 +4561,7 @@
         {
           "id": 47,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 3",
+          "nom": "Boucliers protoss niv.3",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -4770,7 +4770,7 @@
         {
           "id": 42,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 1",
+          "nom": "Blindage terrestre protoss niv.1",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -4783,7 +4783,7 @@
         {
           "id": 43,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 2",
+          "nom": "Blindage terrestre protoss niv.2",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -4796,7 +4796,7 @@
         {
           "id": 44,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 3",
+          "nom": "Blindage terrestre protoss niv.3",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -4809,7 +4809,7 @@
         {
           "id": 39,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 1",
+          "nom": "Armes terrestres protoss niv.1",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -4822,7 +4822,7 @@
         {
           "id": 40,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 2",
+          "nom": "Armes terrestres protoss niv.2",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -4835,7 +4835,7 @@
         {
           "id": 41,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 3",
+          "nom": "Armes terrestres protoss niv.3",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -4848,7 +4848,7 @@
         {
           "id": 45,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 1",
+          "nom": "Boucliers protoss niv.1",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -4861,7 +4861,7 @@
         {
           "id": 46,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 2",
+          "nom": "Boucliers protoss niv.2",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -4874,7 +4874,7 @@
         {
           "id": 47,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 3",
+          "nom": "Boucliers protoss niv.3",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -5106,7 +5106,7 @@
         {
           "id": 42,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 1",
+          "nom": "Blindage terrestre protoss niv.1",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -5119,7 +5119,7 @@
         {
           "id": 43,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 2",
+          "nom": "Blindage terrestre protoss niv.2",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -5132,7 +5132,7 @@
         {
           "id": 44,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 3",
+          "nom": "Blindage terrestre protoss niv.3",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -5145,7 +5145,7 @@
         {
           "id": 39,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 1",
+          "nom": "Armes terrestres protoss niv.1",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -5158,7 +5158,7 @@
         {
           "id": 40,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 2",
+          "nom": "Armes terrestres protoss niv.2",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -5171,7 +5171,7 @@
         {
           "id": 41,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 3",
+          "nom": "Armes terrestres protoss niv.3",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -5184,7 +5184,7 @@
         {
           "id": 45,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 1",
+          "nom": "Boucliers protoss niv.1",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -5197,7 +5197,7 @@
         {
           "id": 46,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 2",
+          "nom": "Boucliers protoss niv.2",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -5210,7 +5210,7 @@
         {
           "id": 47,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 3",
+          "nom": "Boucliers protoss niv.3",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -5416,7 +5416,7 @@
         {
           "id": 42,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 1",
+          "nom": "Blindage terrestre protoss niv.1",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -5429,7 +5429,7 @@
         {
           "id": 43,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 2",
+          "nom": "Blindage terrestre protoss niv.2",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -5442,7 +5442,7 @@
         {
           "id": 44,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 3",
+          "nom": "Blindage terrestre protoss niv.3",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -5455,7 +5455,7 @@
         {
           "id": 39,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 1",
+          "nom": "Armes terrestres protoss niv.1",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -5468,7 +5468,7 @@
         {
           "id": 40,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 2",
+          "nom": "Armes terrestres protoss niv.2",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -5481,7 +5481,7 @@
         {
           "id": 41,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 3",
+          "nom": "Armes terrestres protoss niv.3",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -5494,7 +5494,7 @@
         {
           "id": 45,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 1",
+          "nom": "Boucliers protoss niv.1",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -5507,7 +5507,7 @@
         {
           "id": 46,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 2",
+          "nom": "Boucliers protoss niv.2",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -5520,7 +5520,7 @@
         {
           "id": 47,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 3",
+          "nom": "Boucliers protoss niv.3",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -5695,7 +5695,7 @@
         {
           "id": 42,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 1",
+          "nom": "Blindage terrestre protoss niv.1",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -5708,7 +5708,7 @@
         {
           "id": 43,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 2",
+          "nom": "Blindage terrestre protoss niv.2",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -5721,7 +5721,7 @@
         {
           "id": 44,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 3",
+          "nom": "Blindage terrestre protoss niv.3",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -5734,7 +5734,7 @@
         {
           "id": 39,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 1",
+          "nom": "Armes terrestres protoss niv.1",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -5747,7 +5747,7 @@
         {
           "id": 40,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 2",
+          "nom": "Armes terrestres protoss niv.2",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -5760,7 +5760,7 @@
         {
           "id": 41,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 3",
+          "nom": "Armes terrestres protoss niv.3",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -5773,7 +5773,7 @@
         {
           "id": 45,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 1",
+          "nom": "Boucliers protoss niv.1",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -5786,7 +5786,7 @@
         {
           "id": 46,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 2",
+          "nom": "Boucliers protoss niv.2",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -5799,7 +5799,7 @@
         {
           "id": 47,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 3",
+          "nom": "Boucliers protoss niv.3",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -6076,7 +6076,7 @@
         {
           "id": 42,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 1",
+          "nom": "Blindage terrestre protoss niv.1",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -6089,7 +6089,7 @@
         {
           "id": 43,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 2",
+          "nom": "Blindage terrestre protoss niv.2",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -6102,7 +6102,7 @@
         {
           "id": 44,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 3",
+          "nom": "Blindage terrestre protoss niv.3",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -6115,7 +6115,7 @@
         {
           "id": 39,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 1",
+          "nom": "Armes terrestres protoss niv.1",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -6128,7 +6128,7 @@
         {
           "id": 40,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 2",
+          "nom": "Armes terrestres protoss niv.2",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -6141,7 +6141,7 @@
         {
           "id": 41,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 3",
+          "nom": "Armes terrestres protoss niv.3",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -6154,7 +6154,7 @@
         {
           "id": 45,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 1",
+          "nom": "Boucliers protoss niv.1",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -6167,7 +6167,7 @@
         {
           "id": 46,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 2",
+          "nom": "Boucliers protoss niv.2",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -6180,7 +6180,7 @@
         {
           "id": 47,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 3",
+          "nom": "Boucliers protoss niv.3",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -6358,7 +6358,7 @@
         {
           "id": 42,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 1",
+          "nom": "Blindage terrestre protoss niv.1",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -6371,7 +6371,7 @@
         {
           "id": 43,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 2",
+          "nom": "Blindage terrestre protoss niv.2",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -6384,7 +6384,7 @@
         {
           "id": 44,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 3",
+          "nom": "Blindage terrestre protoss niv.3",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -6397,7 +6397,7 @@
         {
           "id": 39,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 1",
+          "nom": "Armes terrestres protoss niv.1",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -6410,7 +6410,7 @@
         {
           "id": 40,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 2",
+          "nom": "Armes terrestres protoss niv.2",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -6423,7 +6423,7 @@
         {
           "id": 41,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 3",
+          "nom": "Armes terrestres protoss niv.3",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -6436,7 +6436,7 @@
         {
           "id": 45,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 1",
+          "nom": "Boucliers protoss niv.1",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -6449,7 +6449,7 @@
         {
           "id": 46,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 2",
+          "nom": "Boucliers protoss niv.2",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -6462,7 +6462,7 @@
         {
           "id": 47,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 3",
+          "nom": "Boucliers protoss niv.3",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -6584,7 +6584,7 @@
         {
           "id": 42,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 1",
+          "nom": "Blindage terrestre protoss niv.1",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -6597,7 +6597,7 @@
         {
           "id": 43,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 2",
+          "nom": "Blindage terrestre protoss niv.2",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -6610,7 +6610,7 @@
         {
           "id": 44,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 3",
+          "nom": "Blindage terrestre protoss niv.3",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -6623,7 +6623,7 @@
         {
           "id": 39,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 1",
+          "nom": "Armes terrestres protoss niv.1",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -6636,7 +6636,7 @@
         {
           "id": 40,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 2",
+          "nom": "Armes terrestres protoss niv.2",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -6649,7 +6649,7 @@
         {
           "id": 41,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 3",
+          "nom": "Armes terrestres protoss niv.3",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -6662,7 +6662,7 @@
         {
           "id": 45,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 1",
+          "nom": "Boucliers protoss niv.1",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -6675,7 +6675,7 @@
         {
           "id": 46,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 2",
+          "nom": "Boucliers protoss niv.2",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -6688,7 +6688,7 @@
         {
           "id": 47,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 3",
+          "nom": "Boucliers protoss niv.3",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -6849,7 +6849,7 @@
         {
           "id": 81,
           "type": "passif",
-          "nom": "Blindage aérien protoss niveau 1",
+          "nom": "Blindage aérien protoss niv.1",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -6862,7 +6862,7 @@
         {
           "id": 82,
           "type": "passif",
-          "nom": "Blindage aérien protoss niveau 2",
+          "nom": "Blindage aérien protoss niv.2",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -6875,7 +6875,7 @@
         {
           "id": 83,
           "type": "passif",
-          "nom": "Blindage aérien protoss niveau 3",
+          "nom": "Blindage aérien protoss niv.3",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -6888,7 +6888,7 @@
         {
           "id": 78,
           "type": "passif",
-          "nom": "Armes aériennes protoss niveau 1",
+          "nom": "Armes aériennes protoss niv.1",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -6901,7 +6901,7 @@
         {
           "id": 79,
           "type": "passif",
-          "nom": "Armes aériennes protoss niveau 2",
+          "nom": "Armes aériennes protoss niv.2",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -6914,7 +6914,7 @@
         {
           "id": 80,
           "type": "passif",
-          "nom": "Armes aériennes protoss niveau 3",
+          "nom": "Armes aériennes protoss niv.3",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -6927,7 +6927,7 @@
         {
           "id": 45,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 1",
+          "nom": "Boucliers protoss niv.1",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -6940,7 +6940,7 @@
         {
           "id": 46,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 2",
+          "nom": "Boucliers protoss niv.2",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -6953,7 +6953,7 @@
         {
           "id": 47,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 3",
+          "nom": "Boucliers protoss niv.3",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -7098,7 +7098,7 @@
         {
           "id": 81,
           "type": "passif",
-          "nom": "Blindage aérien protoss niveau 1",
+          "nom": "Blindage aérien protoss niv.1",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -7111,7 +7111,7 @@
         {
           "id": 82,
           "type": "passif",
-          "nom": "Blindage aérien protoss niveau 2",
+          "nom": "Blindage aérien protoss niv.2",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -7124,7 +7124,7 @@
         {
           "id": 83,
           "type": "passif",
-          "nom": "Blindage aérien protoss niveau 3",
+          "nom": "Blindage aérien protoss niv.3",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -7137,7 +7137,7 @@
         {
           "id": 78,
           "type": "passif",
-          "nom": "Armes aériennes protoss niveau 1",
+          "nom": "Armes aériennes protoss niv.1",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -7150,7 +7150,7 @@
         {
           "id": 79,
           "type": "passif",
-          "nom": "Armes aériennes protoss niveau 2",
+          "nom": "Armes aériennes protoss niv.2",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -7163,7 +7163,7 @@
         {
           "id": 80,
           "type": "passif",
-          "nom": "Armes aériennes protoss niveau 3",
+          "nom": "Armes aériennes protoss niv.3",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -7176,7 +7176,7 @@
         {
           "id": 45,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 1",
+          "nom": "Boucliers protoss niv.1",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -7189,7 +7189,7 @@
         {
           "id": 46,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 2",
+          "nom": "Boucliers protoss niv.2",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -7202,7 +7202,7 @@
         {
           "id": 47,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 3",
+          "nom": "Boucliers protoss niv.3",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -7360,7 +7360,7 @@
         {
           "id": 81,
           "type": "passif",
-          "nom": "Blindage aérien protoss niveau 1",
+          "nom": "Blindage aérien protoss niv.1",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -7373,7 +7373,7 @@
         {
           "id": 82,
           "type": "passif",
-          "nom": "Blindage aérien protoss niveau 2",
+          "nom": "Blindage aérien protoss niv.2",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -7386,7 +7386,7 @@
         {
           "id": 83,
           "type": "passif",
-          "nom": "Blindage aérien protoss niveau 3",
+          "nom": "Blindage aérien protoss niv.3",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -7399,7 +7399,7 @@
         {
           "id": 78,
           "type": "passif",
-          "nom": "Armes aériennes protoss niveau 1",
+          "nom": "Armes aériennes protoss niv.1",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -7412,7 +7412,7 @@
         {
           "id": 79,
           "type": "passif",
-          "nom": "Armes aériennes protoss niveau 2",
+          "nom": "Armes aériennes protoss niv.2",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -7425,7 +7425,7 @@
         {
           "id": 80,
           "type": "passif",
-          "nom": "Armes aériennes protoss niveau 3",
+          "nom": "Armes aériennes protoss niv.3",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -7438,7 +7438,7 @@
         {
           "id": 45,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 1",
+          "nom": "Boucliers protoss niv.1",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -7451,7 +7451,7 @@
         {
           "id": 46,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 2",
+          "nom": "Boucliers protoss niv.2",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -7464,7 +7464,7 @@
         {
           "id": 47,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 3",
+          "nom": "Boucliers protoss niv.3",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -7639,7 +7639,7 @@
         {
           "id": 81,
           "type": "passif",
-          "nom": "Blindage aérien protoss niveau 1",
+          "nom": "Blindage aérien protoss niv.1",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -7652,7 +7652,7 @@
         {
           "id": 82,
           "type": "passif",
-          "nom": "Blindage aérien protoss niveau 2",
+          "nom": "Blindage aérien protoss niv.2",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -7665,7 +7665,7 @@
         {
           "id": 83,
           "type": "passif",
-          "nom": "Blindage aérien protoss niveau 3",
+          "nom": "Blindage aérien protoss niv.3",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -7678,7 +7678,7 @@
         {
           "id": 78,
           "type": "passif",
-          "nom": "Armes aériennes protoss niveau 1",
+          "nom": "Armes aériennes protoss niv.1",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -7691,7 +7691,7 @@
         {
           "id": 79,
           "type": "passif",
-          "nom": "Armes aériennes protoss niveau 2",
+          "nom": "Armes aériennes protoss niv.2",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -7704,7 +7704,7 @@
         {
           "id": 80,
           "type": "passif",
-          "nom": "Armes aériennes protoss niveau 3",
+          "nom": "Armes aériennes protoss niv.3",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -7717,7 +7717,7 @@
         {
           "id": 45,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 1",
+          "nom": "Boucliers protoss niv.1",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -7730,7 +7730,7 @@
         {
           "id": 46,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 2",
+          "nom": "Boucliers protoss niv.2",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -7743,7 +7743,7 @@
         {
           "id": 47,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 3",
+          "nom": "Boucliers protoss niv.3",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -7918,7 +7918,7 @@
         {
           "id": 81,
           "type": "passif",
-          "nom": "Blindage aérien protoss niveau 1",
+          "nom": "Blindage aérien protoss niv.1",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -7931,7 +7931,7 @@
         {
           "id": 82,
           "type": "passif",
-          "nom": "Blindage aérien protoss niveau 2",
+          "nom": "Blindage aérien protoss niv.2",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -7944,7 +7944,7 @@
         {
           "id": 83,
           "type": "passif",
-          "nom": "Blindage aérien protoss niveau 3",
+          "nom": "Blindage aérien protoss niv.3",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -7957,7 +7957,7 @@
         {
           "id": 78,
           "type": "passif",
-          "nom": "Armes aériennes protoss niveau 1",
+          "nom": "Armes aériennes protoss niv.1",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -7970,7 +7970,7 @@
         {
           "id": 79,
           "type": "passif",
-          "nom": "Armes aériennes protoss niveau 2",
+          "nom": "Armes aériennes protoss niv.2",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -7983,7 +7983,7 @@
         {
           "id": 80,
           "type": "passif",
-          "nom": "Armes aériennes protoss niveau 3",
+          "nom": "Armes aériennes protoss niv.3",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -7996,7 +7996,7 @@
         {
           "id": 45,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 1",
+          "nom": "Boucliers protoss niv.1",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -8009,7 +8009,7 @@
         {
           "id": 46,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 2",
+          "nom": "Boucliers protoss niv.2",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -8022,7 +8022,7 @@
         {
           "id": 47,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 3",
+          "nom": "Boucliers protoss niv.3",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -8129,7 +8129,7 @@
         {
           "id": 81,
           "type": "passif",
-          "nom": "Blindage aérien protoss niveau 1",
+          "nom": "Blindage aérien protoss niv.1",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -8142,7 +8142,7 @@
         {
           "id": 82,
           "type": "passif",
-          "nom": "Blindage aérien protoss niveau 2",
+          "nom": "Blindage aérien protoss niv.2",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -8155,7 +8155,7 @@
         {
           "id": 83,
           "type": "passif",
-          "nom": "Blindage aérien protoss niveau 3",
+          "nom": "Blindage aérien protoss niv.3",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -8168,7 +8168,7 @@
         {
           "id": 78,
           "type": "passif",
-          "nom": "Armes aériennes protoss niveau 1",
+          "nom": "Armes aériennes protoss niv.1",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -8181,7 +8181,7 @@
         {
           "id": 79,
           "type": "passif",
-          "nom": "Armes aériennes protoss niveau 2",
+          "nom": "Armes aériennes protoss niv.2",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -8194,7 +8194,7 @@
         {
           "id": 80,
           "type": "passif",
-          "nom": "Armes aériennes protoss niveau 3",
+          "nom": "Armes aériennes protoss niv.3",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -8207,7 +8207,7 @@
         {
           "id": 45,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 1",
+          "nom": "Boucliers protoss niv.1",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -8220,7 +8220,7 @@
         {
           "id": 46,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 2",
+          "nom": "Boucliers protoss niv.2",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -8233,7 +8233,7 @@
         {
           "id": 47,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 3",
+          "nom": "Boucliers protoss niv.3",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -8762,7 +8762,7 @@
         {
           "id": 56,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 1",
+          "nom": "Carapace terrestre zerg niv.1",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -8775,7 +8775,7 @@
         {
           "id": 57,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 2",
+          "nom": "Carapace terrestre zerg niv.2",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -8788,7 +8788,7 @@
         {
           "id": 58,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 3",
+          "nom": "Carapace terrestre zerg niv.3",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -8801,7 +8801,7 @@
         {
           "id": 53,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 1",
+          "nom": "Attaques de mêlée zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -8814,7 +8814,7 @@
         {
           "id": 54,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 2",
+          "nom": "Attaques de mêlée zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -8827,7 +8827,7 @@
         {
           "id": 55,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 3",
+          "nom": "Attaques de mêlée zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -8840,7 +8840,7 @@
         {
           "id": 59,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 1",
+          "nom": "Attaques à distance zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -8853,7 +8853,7 @@
         {
           "id": 60,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 2",
+          "nom": "Attaques à distance zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -8866,7 +8866,7 @@
         {
           "id": 61,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 3",
+          "nom": "Attaques à distance zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -9035,7 +9035,7 @@
         {
           "id": 56,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 1",
+          "nom": "Carapace terrestre zerg niv.1",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -9048,7 +9048,7 @@
         {
           "id": 57,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 2",
+          "nom": "Carapace terrestre zerg niv.2",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -9061,7 +9061,7 @@
         {
           "id": 58,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 3",
+          "nom": "Carapace terrestre zerg niv.3",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -9074,7 +9074,7 @@
         {
           "id": 53,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 1",
+          "nom": "Attaques de mêlée zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -9087,7 +9087,7 @@
         {
           "id": 54,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 2",
+          "nom": "Attaques de mêlée zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -9100,7 +9100,7 @@
         {
           "id": 55,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 3",
+          "nom": "Attaques de mêlée zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -9113,7 +9113,7 @@
         {
           "id": 59,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 1",
+          "nom": "Attaques à distance zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -9126,7 +9126,7 @@
         {
           "id": 60,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 2",
+          "nom": "Attaques à distance zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -9139,7 +9139,7 @@
         {
           "id": 61,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 3",
+          "nom": "Attaques à distance zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -9352,7 +9352,7 @@
         {
           "id": 56,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 1",
+          "nom": "Carapace terrestre zerg niv.1",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -9365,7 +9365,7 @@
         {
           "id": 57,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 2",
+          "nom": "Carapace terrestre zerg niv.2",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -9378,7 +9378,7 @@
         {
           "id": 58,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 3",
+          "nom": "Carapace terrestre zerg niv.3",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -9391,7 +9391,7 @@
         {
           "id": 53,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 1",
+          "nom": "Attaques de mêlée zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -9404,7 +9404,7 @@
         {
           "id": 54,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 2",
+          "nom": "Attaques de mêlée zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -9417,7 +9417,7 @@
         {
           "id": 55,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 3",
+          "nom": "Attaques de mêlée zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -9430,7 +9430,7 @@
         {
           "id": 59,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 1",
+          "nom": "Attaques à distance zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -9443,7 +9443,7 @@
         {
           "id": 60,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 2",
+          "nom": "Attaques à distance zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -9456,7 +9456,7 @@
         {
           "id": 61,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 3",
+          "nom": "Attaques à distance zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -9629,7 +9629,7 @@
         {
           "id": 56,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 1",
+          "nom": "Carapace terrestre zerg niv.1",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -9642,7 +9642,7 @@
         {
           "id": 57,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 2",
+          "nom": "Carapace terrestre zerg niv.2",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -9655,7 +9655,7 @@
         {
           "id": 58,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 3",
+          "nom": "Carapace terrestre zerg niv.3",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -9668,7 +9668,7 @@
         {
           "id": 53,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 1",
+          "nom": "Attaques de mêlée zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -9681,7 +9681,7 @@
         {
           "id": 54,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 2",
+          "nom": "Attaques de mêlée zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -9694,7 +9694,7 @@
         {
           "id": 55,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 3",
+          "nom": "Attaques de mêlée zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -9707,7 +9707,7 @@
         {
           "id": 59,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 1",
+          "nom": "Attaques à distance zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -9720,7 +9720,7 @@
         {
           "id": 60,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 2",
+          "nom": "Attaques à distance zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -9733,7 +9733,7 @@
         {
           "id": 61,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 3",
+          "nom": "Attaques à distance zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -9946,7 +9946,7 @@
         {
           "id": 56,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 1",
+          "nom": "Carapace terrestre zerg niv.1",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -9959,7 +9959,7 @@
         {
           "id": 57,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 2",
+          "nom": "Carapace terrestre zerg niv.2",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -9972,7 +9972,7 @@
         {
           "id": 58,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 3",
+          "nom": "Carapace terrestre zerg niv.3",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -9985,7 +9985,7 @@
         {
           "id": 53,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 1",
+          "nom": "Attaques de mêlée zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -9998,7 +9998,7 @@
         {
           "id": 54,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 2",
+          "nom": "Attaques de mêlée zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -10011,7 +10011,7 @@
         {
           "id": 55,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 3",
+          "nom": "Attaques de mêlée zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -10024,7 +10024,7 @@
         {
           "id": 59,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 1",
+          "nom": "Attaques à distance zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -10037,7 +10037,7 @@
         {
           "id": 60,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 2",
+          "nom": "Attaques à distance zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -10050,7 +10050,7 @@
         {
           "id": 61,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 3",
+          "nom": "Attaques à distance zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -10310,7 +10310,7 @@
         {
           "id": 56,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 1",
+          "nom": "Carapace terrestre zerg niv.1",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -10323,7 +10323,7 @@
         {
           "id": 57,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 2",
+          "nom": "Carapace terrestre zerg niv.2",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -10336,7 +10336,7 @@
         {
           "id": 58,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 3",
+          "nom": "Carapace terrestre zerg niv.3",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -10349,7 +10349,7 @@
         {
           "id": 53,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 1",
+          "nom": "Attaques de mêlée zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -10362,7 +10362,7 @@
         {
           "id": 54,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 2",
+          "nom": "Attaques de mêlée zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -10375,7 +10375,7 @@
         {
           "id": 55,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 3",
+          "nom": "Attaques de mêlée zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -10388,7 +10388,7 @@
         {
           "id": 59,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 1",
+          "nom": "Attaques à distance zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -10401,7 +10401,7 @@
         {
           "id": 60,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 2",
+          "nom": "Attaques à distance zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -10414,7 +10414,7 @@
         {
           "id": 61,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 3",
+          "nom": "Attaques à distance zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -10577,7 +10577,7 @@
         {
           "id": 56,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 1",
+          "nom": "Carapace terrestre zerg niv.1",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -10590,7 +10590,7 @@
         {
           "id": 57,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 2",
+          "nom": "Carapace terrestre zerg niv.2",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -10603,7 +10603,7 @@
         {
           "id": 58,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 3",
+          "nom": "Carapace terrestre zerg niv.3",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -10616,7 +10616,7 @@
         {
           "id": 53,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 1",
+          "nom": "Attaques de mêlée zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -10629,7 +10629,7 @@
         {
           "id": 54,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 2",
+          "nom": "Attaques de mêlée zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -10642,7 +10642,7 @@
         {
           "id": 55,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 3",
+          "nom": "Attaques de mêlée zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -10655,7 +10655,7 @@
         {
           "id": 59,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 1",
+          "nom": "Attaques à distance zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -10668,7 +10668,7 @@
         {
           "id": 60,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 2",
+          "nom": "Attaques à distance zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -10681,7 +10681,7 @@
         {
           "id": 61,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 3",
+          "nom": "Attaques à distance zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -11011,7 +11011,7 @@
         {
           "id": 71,
           "type": "passif",
-          "nom": "Carapace aérienne zerg niveau 1",
+          "nom": "Carapace aérienne zerg niv.1",
           "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -11024,7 +11024,7 @@
         {
           "id": 72,
           "type": "passif",
-          "nom": "Carapace aérienne zerg niveau 2",
+          "nom": "Carapace aérienne zerg niv.2",
           "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -11037,7 +11037,7 @@
         {
           "id": 73,
           "type": "passif",
-          "nom": "Carapace aérienne zerg niveau 3",
+          "nom": "Carapace aérienne zerg niv.3",
           "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -11050,7 +11050,7 @@
         {
           "id": 68,
           "type": "passif",
-          "nom": "Attaques aériennes zerg niveau 1",
+          "nom": "Attaques aériennes zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -11063,7 +11063,7 @@
         {
           "id": 69,
           "type": "passif",
-          "nom": "Attaques aériennes zerg niveau 2",
+          "nom": "Attaques aériennes zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -11076,7 +11076,7 @@
         {
           "id": 70,
           "type": "passif",
-          "nom": "Attaques aériennes zerg niveau 3",
+          "nom": "Attaques aériennes zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -11268,7 +11268,7 @@
         {
           "id": 71,
           "type": "passif",
-          "nom": "Carapace aérienne zerg niveau 1",
+          "nom": "Carapace aérienne zerg niv.1",
           "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -11281,7 +11281,7 @@
         {
           "id": 72,
           "type": "passif",
-          "nom": "Carapace aérienne zerg niveau 2",
+          "nom": "Carapace aérienne zerg niv.2",
           "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -11294,7 +11294,7 @@
         {
           "id": 73,
           "type": "passif",
-          "nom": "Carapace aérienne zerg niveau 3",
+          "nom": "Carapace aérienne zerg niv.3",
           "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -11307,7 +11307,7 @@
         {
           "id": 68,
           "type": "passif",
-          "nom": "Attaques aériennes zerg niveau 1",
+          "nom": "Attaques aériennes zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -11320,7 +11320,7 @@
         {
           "id": 69,
           "type": "passif",
-          "nom": "Attaques aériennes zerg niveau 2",
+          "nom": "Attaques aériennes zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -11333,7 +11333,7 @@
         {
           "id": 70,
           "type": "passif",
-          "nom": "Attaques aériennes zerg niveau 3",
+          "nom": "Attaques aériennes zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -11678,7 +11678,7 @@
         {
           "id": 56,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 1",
+          "nom": "Carapace terrestre zerg niv.1",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -11691,7 +11691,7 @@
         {
           "id": 57,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 2",
+          "nom": "Carapace terrestre zerg niv.2",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -11704,7 +11704,7 @@
         {
           "id": 58,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 3",
+          "nom": "Carapace terrestre zerg niv.3",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -11717,7 +11717,7 @@
         {
           "id": 53,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 1",
+          "nom": "Attaques de mêlée zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -11730,7 +11730,7 @@
         {
           "id": 54,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 2",
+          "nom": "Attaques de mêlée zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -11743,7 +11743,7 @@
         {
           "id": 55,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 3",
+          "nom": "Attaques de mêlée zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -11756,7 +11756,7 @@
         {
           "id": 59,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 1",
+          "nom": "Attaques à distance zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -11769,7 +11769,7 @@
         {
           "id": 60,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 2",
+          "nom": "Attaques à distance zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -11782,7 +11782,7 @@
         {
           "id": 61,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 3",
+          "nom": "Attaques à distance zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -11918,7 +11918,7 @@
         {
           "id": 56,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 1",
+          "nom": "Carapace terrestre zerg niv.1",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -11931,7 +11931,7 @@
         {
           "id": 57,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 2",
+          "nom": "Carapace terrestre zerg niv.2",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -11944,7 +11944,7 @@
         {
           "id": 58,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 3",
+          "nom": "Carapace terrestre zerg niv.3",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -11957,7 +11957,7 @@
         {
           "id": 53,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 1",
+          "nom": "Attaques de mêlée zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -11970,7 +11970,7 @@
         {
           "id": 54,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 2",
+          "nom": "Attaques de mêlée zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -11983,7 +11983,7 @@
         {
           "id": 55,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 3",
+          "nom": "Attaques de mêlée zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -11996,7 +11996,7 @@
         {
           "id": 59,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 1",
+          "nom": "Attaques à distance zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -12009,7 +12009,7 @@
         {
           "id": 60,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 2",
+          "nom": "Attaques à distance zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -12022,7 +12022,7 @@
         {
           "id": 61,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 3",
+          "nom": "Attaques à distance zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -12101,7 +12101,7 @@
         {
           "id": 71,
           "type": "passif",
-          "nom": "Carapace aérienne zerg niveau 1",
+          "nom": "Carapace aérienne zerg niv.1",
           "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -12114,7 +12114,7 @@
         {
           "id": 72,
           "type": "passif",
-          "nom": "Carapace aérienne zerg niveau 2",
+          "nom": "Carapace aérienne zerg niv.2",
           "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -12127,7 +12127,7 @@
         {
           "id": 73,
           "type": "passif",
-          "nom": "Carapace aérienne zerg niveau 3",
+          "nom": "Carapace aérienne zerg niv.3",
           "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -12140,7 +12140,7 @@
         {
           "id": 68,
           "type": "passif",
-          "nom": "Attaques aériennes zerg niveau 1",
+          "nom": "Attaques aériennes zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -12153,7 +12153,7 @@
         {
           "id": 69,
           "type": "passif",
-          "nom": "Attaques aériennes zerg niveau 2",
+          "nom": "Attaques aériennes zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -12166,7 +12166,7 @@
         {
           "id": 70,
           "type": "passif",
-          "nom": "Attaques aériennes zerg niveau 3",
+          "nom": "Attaques aériennes zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -12303,7 +12303,7 @@
         {
           "id": 71,
           "type": "passif",
-          "nom": "Carapace aérienne zerg niveau 1",
+          "nom": "Carapace aérienne zerg niv.1",
           "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -12316,7 +12316,7 @@
         {
           "id": 72,
           "type": "passif",
-          "nom": "Carapace aérienne zerg niveau 2",
+          "nom": "Carapace aérienne zerg niv.2",
           "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -12329,7 +12329,7 @@
         {
           "id": 73,
           "type": "passif",
-          "nom": "Carapace aérienne zerg niveau 3",
+          "nom": "Carapace aérienne zerg niv.3",
           "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -12342,7 +12342,7 @@
         {
           "id": 68,
           "type": "passif",
-          "nom": "Attaques aériennes zerg niveau 1",
+          "nom": "Attaques aériennes zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -12355,7 +12355,7 @@
         {
           "id": 69,
           "type": "passif",
-          "nom": "Attaques aériennes zerg niveau 2",
+          "nom": "Attaques aériennes zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -12368,7 +12368,7 @@
         {
           "id": 70,
           "type": "passif",
-          "nom": "Attaques aériennes zerg niveau 3",
+          "nom": "Attaques aériennes zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -12922,7 +12922,7 @@
     },
     {
       "id": 22,
-      "nom": "Baie d'ingénierie",
+      "nom": "Centre Technique",
       "nomVerifie": false,
       "nomTechnique": "EngineeringBay",
       "faction": {
@@ -12958,7 +12958,7 @@
         {
           "id": 5,
           "type": "amelioration",
-          "nom": "Guidage automatique haute sécurité",
+          "nom": "Ciblage auto. haute sécurité",
           "image": "/src/assets/images/upgrades/guidage-automatique-haute-securite.jpg",
           "faction": {
             "id": "terran",
@@ -12971,7 +12971,7 @@
         {
           "id": 6,
           "type": "amelioration",
-          "nom": "Blindage des bâtiments terrans",
+          "nom": "Blindage des bâtiments",
           "image": "/src/assets/images/upgrades/blindage-des-batiments-terrans.jpg",
           "faction": {
             "id": "terran",
@@ -12984,7 +12984,7 @@
         {
           "id": 7,
           "type": "amelioration",
-          "nom": "Armes d’infanterie terran niveau 1",
+          "nom": "Armes d’infanterie niv.1",
           "image": "/src/assets/images/upgrades/armes-dinfanterie-terran-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -12997,7 +12997,7 @@
         {
           "id": 8,
           "type": "amelioration",
-          "nom": "Armes d’infanterie terran niveau 2",
+          "nom": "Armes d’infanterie niv.2",
           "image": "/src/assets/images/upgrades/armes-dinfanterie-terran-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -13010,7 +13010,7 @@
         {
           "id": 9,
           "type": "amelioration",
-          "nom": "Armes d’infanterie terran niveau 3",
+          "nom": "Armes d’infanterie niv.3",
           "image": "/src/assets/images/upgrades/armes-dinfanterie-terran-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -13023,7 +13023,7 @@
         {
           "id": 11,
           "type": "amelioration",
-          "nom": "Blindage d’infanterie terran niveau 1",
+          "nom": "Blindage d’infanterie niv.1",
           "image": "/src/assets/images/upgrades/blindage-dinfanterie-terran-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -13036,7 +13036,7 @@
         {
           "id": 12,
           "type": "amelioration",
-          "nom": "Blindage d’infanterie terran niveau 2",
+          "nom": "Blindage d’infanterie niv.2",
           "image": "/src/assets/images/upgrades/blindage-dinfanterie-terran-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -13049,7 +13049,7 @@
         {
           "id": 13,
           "type": "amelioration",
-          "nom": "Blindage d’infanterie terran niveau 3",
+          "nom": "Blindage d’infanterie niv.3",
           "image": "/src/assets/images/upgrades/blindage-dinfanterie-terran-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -13068,7 +13068,7 @@
         {
           "id": 5,
           "type": "passif",
-          "nom": "Guidage automatique haute sécurité",
+          "nom": "Ciblage auto. haute sécurité",
           "image": "/src/assets/images/upgrades/guidage-automatique-haute-securite.jpg",
           "faction": {
             "id": "terran",
@@ -13081,7 +13081,7 @@
         {
           "id": 6,
           "type": "passif",
-          "nom": "Blindage des bâtiments terrans",
+          "nom": "Blindage des bâtiments",
           "image": "/src/assets/images/upgrades/blindage-des-batiments-terrans.jpg",
           "faction": {
             "id": "terran",
@@ -13089,12 +13089,12 @@
             "image": null,
             "lien": "/unites?faction=terran"
           },
-          "lien": "/batiments/terran/blindage des bâtiments terrans"
+          "lien": "/batiments/terran/blindage des bâtiments"
         },
         {
           "id": 11,
           "type": "passif",
-          "nom": "Blindage d’infanterie terran niveau 1",
+          "nom": "Blindage d’infanterie niv.1",
           "image": "/src/assets/images/upgrades/blindage-dinfanterie-terran-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -13102,12 +13102,12 @@
             "image": null,
             "lien": "/unites?faction=terran"
           },
-          "lien": "/batiments/terran/blindage d’infanterie terran niveau 1"
+          "lien": "/batiments/terran/blindage d’infanterie niv.1"
         },
         {
           "id": 12,
           "type": "passif",
-          "nom": "Blindage d’infanterie terran niveau 2",
+          "nom": "Blindage d’infanterie niv.2",
           "image": "/src/assets/images/upgrades/blindage-dinfanterie-terran-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -13115,12 +13115,12 @@
             "image": null,
             "lien": "/unites?faction=terran"
           },
-          "lien": "/batiments/terran/blindage d’infanterie terran niveau 2"
+          "lien": "/batiments/terran/blindage d’infanterie niv.2"
         },
         {
           "id": 13,
           "type": "passif",
-          "nom": "Blindage d’infanterie terran niveau 3",
+          "nom": "Blindage d’infanterie niv.3",
           "image": "/src/assets/images/upgrades/blindage-dinfanterie-terran-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -13128,12 +13128,12 @@
             "image": null,
             "lien": "/unites?faction=terran"
           },
-          "lien": "/batiments/terran/blindage d’infanterie terran niveau 3"
+          "lien": "/batiments/terran/blindage d’infanterie niv.3"
         },
         {
           "id": 7,
           "type": "passif",
-          "nom": "Armes d’infanterie terran niveau 1",
+          "nom": "Armes d’infanterie niv.1",
           "image": "/src/assets/images/upgrades/armes-dinfanterie-terran-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -13141,12 +13141,12 @@
             "image": null,
             "lien": "/unites?faction=terran"
           },
-          "lien": "/batiments/terran/armes d’infanterie terran niveau 1"
+          "lien": "/batiments/terran/armes d’infanterie niv.1"
         },
         {
           "id": 8,
           "type": "passif",
-          "nom": "Armes d’infanterie terran niveau 2",
+          "nom": "Armes d’infanterie niv.2",
           "image": "/src/assets/images/upgrades/armes-dinfanterie-terran-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -13154,12 +13154,12 @@
             "image": null,
             "lien": "/unites?faction=terran"
           },
-          "lien": "/batiments/terran/armes d’infanterie terran niveau 2"
+          "lien": "/batiments/terran/armes d’infanterie niv.2"
         },
         {
           "id": 9,
           "type": "passif",
-          "nom": "Armes d’infanterie terran niveau 3",
+          "nom": "Armes d’infanterie niv.3",
           "image": "/src/assets/images/upgrades/armes-dinfanterie-terran-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -13167,7 +13167,7 @@
             "image": null,
             "lien": "/unites?faction=terran"
           },
-          "lien": "/batiments/terran/armes d’infanterie terran niveau 3"
+          "lien": "/batiments/terran/armes d’infanterie niv.3"
         }
       ]
     },
@@ -13760,7 +13760,7 @@
         {
           "id": 30,
           "type": "amelioration",
-          "nom": "Armes des véhicules terrans niveau 1",
+          "nom": "Armes des véhicules niv.1",
           "image": "/src/assets/images/upgrades/armes-des-vehicules-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -13773,7 +13773,7 @@
         {
           "id": 31,
           "type": "amelioration",
-          "nom": "Armes des véhicules terrans niveau 2",
+          "nom": "Armes des véhicules niv.2",
           "image": "/src/assets/images/upgrades/armes-des-vehicules-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -13786,7 +13786,7 @@
         {
           "id": 32,
           "type": "amelioration",
-          "nom": "Armes des véhicules terrans niveau 3",
+          "nom": "Armes des véhicules niv.3",
           "image": "/src/assets/images/upgrades/armes-des-vehicules-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -13799,7 +13799,7 @@
         {
           "id": 36,
           "type": "amelioration",
-          "nom": "Armes des vaisseaux terrans niveau 1",
+          "nom": "Armes des vaisseaux niv.1",
           "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -13812,7 +13812,7 @@
         {
           "id": 37,
           "type": "amelioration",
-          "nom": "Armes des vaisseaux terrans niveau 2",
+          "nom": "Armes des vaisseaux niv.2",
           "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -13825,7 +13825,7 @@
         {
           "id": 38,
           "type": "amelioration",
-          "nom": "Armes des vaisseaux terrans niveau 3",
+          "nom": "Armes des vaisseaux niv.3",
           "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -13838,7 +13838,7 @@
         {
           "id": 116,
           "type": "amelioration",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 1",
+          "nom": "Blindage niv.1",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -13851,7 +13851,7 @@
         {
           "id": 117,
           "type": "amelioration",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 2",
+          "nom": "Blindage niv.2",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -13864,7 +13864,7 @@
         {
           "id": 118,
           "type": "amelioration",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 3",
+          "nom": "Blindage niv.3",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -13883,7 +13883,7 @@
         {
           "id": 36,
           "type": "passif",
-          "nom": "Armes des vaisseaux terrans niveau 1",
+          "nom": "Armes des vaisseaux niv.1",
           "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -13891,12 +13891,12 @@
             "image": null,
             "lien": "/unites?faction=terran"
           },
-          "lien": "/batiments/terran/armes des vaisseaux terrans niveau 1"
+          "lien": "/batiments/terran/armes des vaisseaux niv.1"
         },
         {
           "id": 37,
           "type": "passif",
-          "nom": "Armes des vaisseaux terrans niveau 2",
+          "nom": "Armes des vaisseaux niv.2",
           "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -13904,12 +13904,12 @@
             "image": null,
             "lien": "/unites?faction=terran"
           },
-          "lien": "/batiments/terran/armes des vaisseaux terrans niveau 2"
+          "lien": "/batiments/terran/armes des vaisseaux niv.2"
         },
         {
           "id": 38,
           "type": "passif",
-          "nom": "Armes des vaisseaux terrans niveau 3",
+          "nom": "Armes des vaisseaux niv.3",
           "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -13917,12 +13917,12 @@
             "image": null,
             "lien": "/unites?faction=terran"
           },
-          "lien": "/batiments/terran/armes des vaisseaux terrans niveau 3"
+          "lien": "/batiments/terran/armes des vaisseaux niv.3"
         },
         {
           "id": 116,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 1",
+          "nom": "Blindage niv.1",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -13930,12 +13930,12 @@
             "image": null,
             "lien": "/unites?faction=terran"
           },
-          "lien": "/batiments/terran/blindage des véhicules et vaisseaux terrans niveau 1"
+          "lien": "/batiments/terran/blindage niv.1"
         },
         {
           "id": 117,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 2",
+          "nom": "Blindage niv.2",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -13943,12 +13943,12 @@
             "image": null,
             "lien": "/unites?faction=terran"
           },
-          "lien": "/batiments/terran/blindage des véhicules et vaisseaux terrans niveau 2"
+          "lien": "/batiments/terran/blindage niv.2"
         },
         {
           "id": 118,
           "type": "passif",
-          "nom": "Blindage des véhicules et vaisseaux terrans niveau 3",
+          "nom": "Blindage niv.3",
           "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -13956,12 +13956,12 @@
             "image": null,
             "lien": "/unites?faction=terran"
           },
-          "lien": "/batiments/terran/blindage des véhicules et vaisseaux terrans niveau 3"
+          "lien": "/batiments/terran/blindage niv.3"
         },
         {
           "id": 30,
           "type": "passif",
-          "nom": "Armes des véhicules terrans niveau 1",
+          "nom": "Armes des véhicules niv.1",
           "image": "/src/assets/images/upgrades/armes-des-vehicules-terrans-niveau-1.jpg",
           "faction": {
             "id": "terran",
@@ -13969,12 +13969,12 @@
             "image": null,
             "lien": "/unites?faction=terran"
           },
-          "lien": "/batiments/terran/armes des véhicules terrans niveau 1"
+          "lien": "/batiments/terran/armes des véhicules niv.1"
         },
         {
           "id": 31,
           "type": "passif",
-          "nom": "Armes des véhicules terrans niveau 2",
+          "nom": "Armes des véhicules niv.2",
           "image": "/src/assets/images/upgrades/armes-des-vehicules-terrans-niveau-2.jpg",
           "faction": {
             "id": "terran",
@@ -13982,12 +13982,12 @@
             "image": null,
             "lien": "/unites?faction=terran"
           },
-          "lien": "/batiments/terran/armes des véhicules terrans niveau 2"
+          "lien": "/batiments/terran/armes des véhicules niv.2"
         },
         {
           "id": 32,
           "type": "passif",
-          "nom": "Armes des véhicules terrans niveau 3",
+          "nom": "Armes des véhicules niv.3",
           "image": "/src/assets/images/upgrades/armes-des-vehicules-terrans-niveau-3.jpg",
           "faction": {
             "id": "terran",
@@ -13995,7 +13995,7 @@
             "image": null,
             "lien": "/unites?faction=terran"
           },
-          "lien": "/batiments/terran/armes des véhicules terrans niveau 3"
+          "lien": "/batiments/terran/armes des véhicules niv.3"
         }
       ]
     },
@@ -14063,7 +14063,7 @@
         {
           "id": 140,
           "type": "amelioration",
-          "nom": "Amélioration de portée anti-sol du Libérateur",
+          "nom": "Amélioration de portée anti-sol",
           "image": "/src/assets/images/upgrades/amelioration-de-portee-anti-sol-du-liberateur.jpg",
           "faction": {
             "id": "terran",
@@ -14096,7 +14096,7 @@
         {
           "id": 140,
           "type": "passif",
-          "nom": "Amélioration de portée anti-sol du Libérateur",
+          "nom": "Amélioration de portée anti-sol",
           "image": "/src/assets/images/upgrades/amelioration-de-portee-anti-sol-du-liberateur.jpg",
           "faction": {
             "id": "terran",
@@ -14159,7 +14159,7 @@
         {
           "id": 15,
           "type": "amelioration",
-          "nom": "Stimpack",
+          "nom": "Stimulant",
           "image": "/src/assets/images/upgrades/stimpack.png",
           "faction": {
             "id": "terran",
@@ -14252,7 +14252,7 @@
         {
           "id": 15,
           "type": "capacite",
-          "nom": "Stimpack",
+          "nom": "Stimulant",
           "image": "/src/assets/images/capacites/stim-marine.jpg",
           "faction": {
             "id": "terran",
@@ -14859,7 +14859,7 @@
         {
           "id": 39,
           "type": "amelioration",
-          "nom": "Armes terrestres protoss niveau 1",
+          "nom": "Armes terrestres protoss niv.1",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -14872,7 +14872,7 @@
         {
           "id": 40,
           "type": "amelioration",
-          "nom": "Armes terrestres protoss niveau 2",
+          "nom": "Armes terrestres protoss niv.2",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -14885,7 +14885,7 @@
         {
           "id": 41,
           "type": "amelioration",
-          "nom": "Armes terrestres protoss niveau 3",
+          "nom": "Armes terrestres protoss niv.3",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -14898,7 +14898,7 @@
         {
           "id": 42,
           "type": "amelioration",
-          "nom": "Blindage terrestre protoss niveau 1",
+          "nom": "Blindage terrestre protoss niv.1",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -14911,7 +14911,7 @@
         {
           "id": 43,
           "type": "amelioration",
-          "nom": "Blindage terrestre protoss niveau 2",
+          "nom": "Blindage terrestre protoss niv.2",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -14924,7 +14924,7 @@
         {
           "id": 44,
           "type": "amelioration",
-          "nom": "Blindage terrestre protoss niveau 3",
+          "nom": "Blindage terrestre protoss niv.3",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -14937,7 +14937,7 @@
         {
           "id": 45,
           "type": "amelioration",
-          "nom": "Boucliers protoss niveau 1",
+          "nom": "Boucliers protoss niv.1",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -14950,7 +14950,7 @@
         {
           "id": 46,
           "type": "amelioration",
-          "nom": "Boucliers protoss niveau 2",
+          "nom": "Boucliers protoss niv.2",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -14963,7 +14963,7 @@
         {
           "id": 47,
           "type": "amelioration",
-          "nom": "Boucliers protoss niveau 3",
+          "nom": "Boucliers protoss niv.3",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -14982,7 +14982,7 @@
         {
           "id": 42,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 1",
+          "nom": "Blindage terrestre protoss niv.1",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -14990,12 +14990,12 @@
             "image": null,
             "lien": "/unites?faction=protoss"
           },
-          "lien": "/batiments/protoss/blindage terrestre protoss niveau 1"
+          "lien": "/batiments/protoss/blindage terrestre protoss niv.1"
         },
         {
           "id": 43,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 2",
+          "nom": "Blindage terrestre protoss niv.2",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -15003,12 +15003,12 @@
             "image": null,
             "lien": "/unites?faction=protoss"
           },
-          "lien": "/batiments/protoss/blindage terrestre protoss niveau 2"
+          "lien": "/batiments/protoss/blindage terrestre protoss niv.2"
         },
         {
           "id": 44,
           "type": "passif",
-          "nom": "Blindage terrestre protoss niveau 3",
+          "nom": "Blindage terrestre protoss niv.3",
           "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -15016,12 +15016,12 @@
             "image": null,
             "lien": "/unites?faction=protoss"
           },
-          "lien": "/batiments/protoss/blindage terrestre protoss niveau 3"
+          "lien": "/batiments/protoss/blindage terrestre protoss niv.3"
         },
         {
           "id": 39,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 1",
+          "nom": "Armes terrestres protoss niv.1",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -15029,12 +15029,12 @@
             "image": null,
             "lien": "/unites?faction=protoss"
           },
-          "lien": "/batiments/protoss/armes terrestres protoss niveau 1"
+          "lien": "/batiments/protoss/armes terrestres protoss niv.1"
         },
         {
           "id": 40,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 2",
+          "nom": "Armes terrestres protoss niv.2",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -15042,12 +15042,12 @@
             "image": null,
             "lien": "/unites?faction=protoss"
           },
-          "lien": "/batiments/protoss/armes terrestres protoss niveau 2"
+          "lien": "/batiments/protoss/armes terrestres protoss niv.2"
         },
         {
           "id": 41,
           "type": "passif",
-          "nom": "Armes terrestres protoss niveau 3",
+          "nom": "Armes terrestres protoss niv.3",
           "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -15055,12 +15055,12 @@
             "image": null,
             "lien": "/unites?faction=protoss"
           },
-          "lien": "/batiments/protoss/armes terrestres protoss niveau 3"
+          "lien": "/batiments/protoss/armes terrestres protoss niv.3"
         },
         {
           "id": 45,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 1",
+          "nom": "Boucliers protoss niv.1",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -15068,12 +15068,12 @@
             "image": null,
             "lien": "/unites?faction=protoss"
           },
-          "lien": "/batiments/protoss/boucliers protoss niveau 1"
+          "lien": "/batiments/protoss/boucliers protoss niv.1"
         },
         {
           "id": 46,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 2",
+          "nom": "Boucliers protoss niv.2",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -15081,12 +15081,12 @@
             "image": null,
             "lien": "/unites?faction=protoss"
           },
-          "lien": "/batiments/protoss/boucliers protoss niveau 2"
+          "lien": "/batiments/protoss/boucliers protoss niv.2"
         },
         {
           "id": 47,
           "type": "passif",
-          "nom": "Boucliers protoss niveau 3",
+          "nom": "Boucliers protoss niv.3",
           "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -15094,7 +15094,7 @@
             "image": null,
             "lien": "/unites?faction=protoss"
           },
-          "lien": "/batiments/protoss/boucliers protoss niveau 3"
+          "lien": "/batiments/protoss/boucliers protoss niv.3"
         }
       ]
     },
@@ -15932,7 +15932,7 @@
         {
           "id": 78,
           "type": "amelioration",
-          "nom": "Armes aériennes protoss niveau 1",
+          "nom": "Armes aériennes protoss niv.1",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -15945,7 +15945,7 @@
         {
           "id": 79,
           "type": "amelioration",
-          "nom": "Armes aériennes protoss niveau 2",
+          "nom": "Armes aériennes protoss niv.2",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -15958,7 +15958,7 @@
         {
           "id": 80,
           "type": "amelioration",
-          "nom": "Armes aériennes protoss niveau 3",
+          "nom": "Armes aériennes protoss niv.3",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -15971,7 +15971,7 @@
         {
           "id": 81,
           "type": "amelioration",
-          "nom": "Blindage aérien protoss niveau 1",
+          "nom": "Blindage aérien protoss niv.1",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -15984,7 +15984,7 @@
         {
           "id": 82,
           "type": "amelioration",
-          "nom": "Blindage aérien protoss niveau 2",
+          "nom": "Blindage aérien protoss niv.2",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -15997,7 +15997,7 @@
         {
           "id": 83,
           "type": "amelioration",
-          "nom": "Blindage aérien protoss niveau 3",
+          "nom": "Blindage aérien protoss niv.3",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -16029,7 +16029,7 @@
         {
           "id": 81,
           "type": "passif",
-          "nom": "Blindage aérien protoss niveau 1",
+          "nom": "Blindage aérien protoss niv.1",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -16037,12 +16037,12 @@
             "image": null,
             "lien": "/unites?faction=protoss"
           },
-          "lien": "/batiments/protoss/blindage aérien protoss niveau 1"
+          "lien": "/batiments/protoss/blindage aérien protoss niv.1"
         },
         {
           "id": 82,
           "type": "passif",
-          "nom": "Blindage aérien protoss niveau 2",
+          "nom": "Blindage aérien protoss niv.2",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -16050,12 +16050,12 @@
             "image": null,
             "lien": "/unites?faction=protoss"
           },
-          "lien": "/batiments/protoss/blindage aérien protoss niveau 2"
+          "lien": "/batiments/protoss/blindage aérien protoss niv.2"
         },
         {
           "id": 83,
           "type": "passif",
-          "nom": "Blindage aérien protoss niveau 3",
+          "nom": "Blindage aérien protoss niv.3",
           "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -16063,12 +16063,12 @@
             "image": null,
             "lien": "/unites?faction=protoss"
           },
-          "lien": "/batiments/protoss/blindage aérien protoss niveau 3"
+          "lien": "/batiments/protoss/blindage aérien protoss niv.3"
         },
         {
           "id": 78,
           "type": "passif",
-          "nom": "Armes aériennes protoss niveau 1",
+          "nom": "Armes aériennes protoss niv.1",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-1.jpg",
           "faction": {
             "id": "protoss",
@@ -16076,12 +16076,12 @@
             "image": null,
             "lien": "/unites?faction=protoss"
           },
-          "lien": "/batiments/protoss/armes aériennes protoss niveau 1"
+          "lien": "/batiments/protoss/armes aériennes protoss niv.1"
         },
         {
           "id": 79,
           "type": "passif",
-          "nom": "Armes aériennes protoss niveau 2",
+          "nom": "Armes aériennes protoss niv.2",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-2.jpg",
           "faction": {
             "id": "protoss",
@@ -16089,12 +16089,12 @@
             "image": null,
             "lien": "/unites?faction=protoss"
           },
-          "lien": "/batiments/protoss/armes aériennes protoss niveau 2"
+          "lien": "/batiments/protoss/armes aériennes protoss niv.2"
         },
         {
           "id": 80,
           "type": "passif",
-          "nom": "Armes aériennes protoss niveau 3",
+          "nom": "Armes aériennes protoss niv.3",
           "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-3.jpg",
           "faction": {
             "id": "protoss",
@@ -16102,7 +16102,7 @@
             "image": null,
             "lien": "/unites?faction=protoss"
           },
-          "lien": "/batiments/protoss/armes aériennes protoss niveau 3"
+          "lien": "/batiments/protoss/armes aériennes protoss niv.3"
         },
         {
           "id": 84,
@@ -16621,7 +16621,7 @@
         {
           "id": 53,
           "type": "amelioration",
-          "nom": "Attaques de mêlée zerg niveau 1",
+          "nom": "Attaques de mêlée zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -16634,7 +16634,7 @@
         {
           "id": 54,
           "type": "amelioration",
-          "nom": "Attaques de mêlée zerg niveau 2",
+          "nom": "Attaques de mêlée zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -16647,7 +16647,7 @@
         {
           "id": 55,
           "type": "amelioration",
-          "nom": "Attaques de mêlée zerg niveau 3",
+          "nom": "Attaques de mêlée zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -16660,7 +16660,7 @@
         {
           "id": 56,
           "type": "amelioration",
-          "nom": "Carapace terrestre zerg niveau 1",
+          "nom": "Carapace terrestre zerg niv.1",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -16673,7 +16673,7 @@
         {
           "id": 57,
           "type": "amelioration",
-          "nom": "Carapace terrestre zerg niveau 2",
+          "nom": "Carapace terrestre zerg niv.2",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -16686,7 +16686,7 @@
         {
           "id": 58,
           "type": "amelioration",
-          "nom": "Carapace terrestre zerg niveau 3",
+          "nom": "Carapace terrestre zerg niv.3",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -16699,7 +16699,7 @@
         {
           "id": 59,
           "type": "amelioration",
-          "nom": "Attaques à distance zerg niveau 1",
+          "nom": "Attaques à distance zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -16712,7 +16712,7 @@
         {
           "id": 60,
           "type": "amelioration",
-          "nom": "Attaques à distance zerg niveau 2",
+          "nom": "Attaques à distance zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -16725,7 +16725,7 @@
         {
           "id": 61,
           "type": "amelioration",
-          "nom": "Attaques à distance zerg niveau 3",
+          "nom": "Attaques à distance zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -16744,7 +16744,7 @@
         {
           "id": 56,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 1",
+          "nom": "Carapace terrestre zerg niv.1",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -16752,12 +16752,12 @@
             "image": null,
             "lien": "/unites?faction=zerg"
           },
-          "lien": "/batiments/zerg/carapace terrestre zerg niveau 1"
+          "lien": "/batiments/zerg/carapace terrestre zerg niv.1"
         },
         {
           "id": 57,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 2",
+          "nom": "Carapace terrestre zerg niv.2",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -16765,12 +16765,12 @@
             "image": null,
             "lien": "/unites?faction=zerg"
           },
-          "lien": "/batiments/zerg/carapace terrestre zerg niveau 2"
+          "lien": "/batiments/zerg/carapace terrestre zerg niv.2"
         },
         {
           "id": 58,
           "type": "passif",
-          "nom": "Carapace terrestre zerg niveau 3",
+          "nom": "Carapace terrestre zerg niv.3",
           "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -16778,12 +16778,12 @@
             "image": null,
             "lien": "/unites?faction=zerg"
           },
-          "lien": "/batiments/zerg/carapace terrestre zerg niveau 3"
+          "lien": "/batiments/zerg/carapace terrestre zerg niv.3"
         },
         {
           "id": 53,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 1",
+          "nom": "Attaques de mêlée zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -16791,12 +16791,12 @@
             "image": null,
             "lien": "/unites?faction=zerg"
           },
-          "lien": "/batiments/zerg/attaques de mêlée zerg niveau 1"
+          "lien": "/batiments/zerg/attaques de mêlée zerg niv.1"
         },
         {
           "id": 54,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 2",
+          "nom": "Attaques de mêlée zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -16804,12 +16804,12 @@
             "image": null,
             "lien": "/unites?faction=zerg"
           },
-          "lien": "/batiments/zerg/attaques de mêlée zerg niveau 2"
+          "lien": "/batiments/zerg/attaques de mêlée zerg niv.2"
         },
         {
           "id": 55,
           "type": "passif",
-          "nom": "Attaques de mêlée zerg niveau 3",
+          "nom": "Attaques de mêlée zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -16817,12 +16817,12 @@
             "image": null,
             "lien": "/unites?faction=zerg"
           },
-          "lien": "/batiments/zerg/attaques de mêlée zerg niveau 3"
+          "lien": "/batiments/zerg/attaques de mêlée zerg niv.3"
         },
         {
           "id": 59,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 1",
+          "nom": "Attaques à distance zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -16830,12 +16830,12 @@
             "image": null,
             "lien": "/unites?faction=zerg"
           },
-          "lien": "/batiments/zerg/attaques à distance zerg niveau 1"
+          "lien": "/batiments/zerg/attaques à distance zerg niv.1"
         },
         {
           "id": 60,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 2",
+          "nom": "Attaques à distance zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -16843,12 +16843,12 @@
             "image": null,
             "lien": "/unites?faction=zerg"
           },
-          "lien": "/batiments/zerg/attaques à distance zerg niveau 2"
+          "lien": "/batiments/zerg/attaques à distance zerg niv.2"
         },
         {
           "id": 61,
           "type": "passif",
-          "nom": "Attaques à distance zerg niveau 3",
+          "nom": "Attaques à distance zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -16856,7 +16856,7 @@
             "image": null,
             "lien": "/unites?faction=zerg"
           },
-          "lien": "/batiments/zerg/attaques à distance zerg niveau 3"
+          "lien": "/batiments/zerg/attaques à distance zerg niv.3"
         }
       ]
     },
@@ -17033,7 +17033,7 @@
         {
           "id": 68,
           "type": "amelioration",
-          "nom": "Attaques aériennes zerg niveau 1",
+          "nom": "Attaques aériennes zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -17046,7 +17046,7 @@
         {
           "id": 69,
           "type": "amelioration",
-          "nom": "Attaques aériennes zerg niveau 2",
+          "nom": "Attaques aériennes zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -17059,7 +17059,7 @@
         {
           "id": 70,
           "type": "amelioration",
-          "nom": "Attaques aériennes zerg niveau 3",
+          "nom": "Attaques aériennes zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -17072,7 +17072,7 @@
         {
           "id": 71,
           "type": "amelioration",
-          "nom": "Carapace aérienne zerg niveau 1",
+          "nom": "Carapace aérienne zerg niv.1",
           "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -17085,7 +17085,7 @@
         {
           "id": 72,
           "type": "amelioration",
-          "nom": "Carapace aérienne zerg niveau 2",
+          "nom": "Carapace aérienne zerg niv.2",
           "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -17098,7 +17098,7 @@
         {
           "id": 73,
           "type": "amelioration",
-          "nom": "Carapace aérienne zerg niveau 3",
+          "nom": "Carapace aérienne zerg niv.3",
           "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -17117,7 +17117,7 @@
         {
           "id": 71,
           "type": "passif",
-          "nom": "Carapace aérienne zerg niveau 1",
+          "nom": "Carapace aérienne zerg niv.1",
           "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -17125,12 +17125,12 @@
             "image": null,
             "lien": "/unites?faction=zerg"
           },
-          "lien": "/batiments/zerg/carapace aérienne zerg niveau 1"
+          "lien": "/batiments/zerg/carapace aérienne zerg niv.1"
         },
         {
           "id": 72,
           "type": "passif",
-          "nom": "Carapace aérienne zerg niveau 2",
+          "nom": "Carapace aérienne zerg niv.2",
           "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -17138,12 +17138,12 @@
             "image": null,
             "lien": "/unites?faction=zerg"
           },
-          "lien": "/batiments/zerg/carapace aérienne zerg niveau 2"
+          "lien": "/batiments/zerg/carapace aérienne zerg niv.2"
         },
         {
           "id": 73,
           "type": "passif",
-          "nom": "Carapace aérienne zerg niveau 3",
+          "nom": "Carapace aérienne zerg niv.3",
           "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -17151,12 +17151,12 @@
             "image": null,
             "lien": "/unites?faction=zerg"
           },
-          "lien": "/batiments/zerg/carapace aérienne zerg niveau 3"
+          "lien": "/batiments/zerg/carapace aérienne zerg niv.3"
         },
         {
           "id": 68,
           "type": "passif",
-          "nom": "Attaques aériennes zerg niveau 1",
+          "nom": "Attaques aériennes zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -17164,12 +17164,12 @@
             "image": null,
             "lien": "/unites?faction=zerg"
           },
-          "lien": "/batiments/zerg/attaques aériennes zerg niveau 1"
+          "lien": "/batiments/zerg/attaques aériennes zerg niv.1"
         },
         {
           "id": 69,
           "type": "passif",
-          "nom": "Attaques aériennes zerg niveau 2",
+          "nom": "Attaques aériennes zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -17177,12 +17177,12 @@
             "image": null,
             "lien": "/unites?faction=zerg"
           },
-          "lien": "/batiments/zerg/attaques aériennes zerg niveau 2"
+          "lien": "/batiments/zerg/attaques aériennes zerg niv.2"
         },
         {
           "id": 70,
           "type": "passif",
-          "nom": "Attaques aériennes zerg niveau 3",
+          "nom": "Attaques aériennes zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -17190,7 +17190,7 @@
             "image": null,
             "lien": "/unites?faction=zerg"
           },
-          "lien": "/batiments/zerg/attaques aériennes zerg niveau 3"
+          "lien": "/batiments/zerg/attaques aériennes zerg niv.3"
         }
       ]
     },
@@ -17246,7 +17246,7 @@
         {
           "id": 68,
           "type": "amelioration",
-          "nom": "Attaques aériennes zerg niveau 1",
+          "nom": "Attaques aériennes zerg niv.1",
           "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -17259,7 +17259,7 @@
         {
           "id": 69,
           "type": "amelioration",
-          "nom": "Attaques aériennes zerg niveau 2",
+          "nom": "Attaques aériennes zerg niv.2",
           "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -17272,7 +17272,7 @@
         {
           "id": 70,
           "type": "amelioration",
-          "nom": "Attaques aériennes zerg niveau 3",
+          "nom": "Attaques aériennes zerg niv.3",
           "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -17285,7 +17285,7 @@
         {
           "id": 71,
           "type": "amelioration",
-          "nom": "Carapace aérienne zerg niveau 1",
+          "nom": "Carapace aérienne zerg niv.1",
           "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-1.jpg",
           "faction": {
             "id": "zerg",
@@ -17298,7 +17298,7 @@
         {
           "id": 72,
           "type": "amelioration",
-          "nom": "Carapace aérienne zerg niveau 2",
+          "nom": "Carapace aérienne zerg niv.2",
           "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-2.jpg",
           "faction": {
             "id": "zerg",
@@ -17311,7 +17311,7 @@
         {
           "id": 73,
           "type": "amelioration",
-          "nom": "Carapace aérienne zerg niveau 3",
+          "nom": "Carapace aérienne zerg niv.3",
           "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-3.jpg",
           "faction": {
             "id": "zerg",
@@ -18049,7 +18049,7 @@
     "capacites": [
       {
         "id": 15,
-        "nom": "Stimpack",
+        "nom": "Stimulant",
         "image": "/src/assets/images/capacites/stim-marine.jpg",
         "faction": {
           "id": "terran",
@@ -18129,8 +18129,8 @@
           "lien": "/unites?faction=terran"
         },
         "coutActivation": {
-          "energie": null,
-          "vie": null
+          "energie": 25,
+          "vie": 0
         },
         "coutRecherche": {
           "minerais": 150,
@@ -18177,8 +18177,8 @@
           "lien": "/unites?faction=terran"
         },
         "coutActivation": {
-          "energie": null,
-          "vie": null
+          "energie": 25,
+          "vie": 0
         },
         "coutRecherche": {
           "minerais": 100,
@@ -19058,7 +19058,7 @@
       },
       {
         "id": 5,
-        "nom": "Guidage automatique haute sécurité",
+        "nom": "Ciblage auto. haute sécurité",
         "image": "/src/assets/images/upgrades/guidage-automatique-haute-securite.jpg",
         "faction": {
           "id": "terran",
@@ -19074,7 +19074,7 @@
         "construitDans": {
           "id": 22,
           "type": "batiment",
-          "nom": "Baie d'ingénierie",
+          "nom": "Centre Technique",
           "image": "/src/assets/images/buildings/baie-d-ingenierie.jpg",
           "faction": {
             "id": "terran",
@@ -19142,7 +19142,7 @@
       },
       {
         "id": 140,
-        "nom": "Amélioration de portée anti-sol du Libérateur",
+        "nom": "Amélioration de portée anti-sol",
         "image": "/src/assets/images/upgrades/amelioration-de-portee-anti-sol-du-liberateur.jpg",
         "faction": {
           "id": "terran",
@@ -19330,7 +19330,7 @@
       },
       {
         "id": 81,
-        "nom": "Blindage aérien protoss niveau 1",
+        "nom": "Blindage aérien protoss niv.1",
         "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-1.jpg",
         "faction": {
           "id": "protoss",
@@ -19441,7 +19441,7 @@
       },
       {
         "id": 82,
-        "nom": "Blindage aérien protoss niveau 2",
+        "nom": "Blindage aérien protoss niv.2",
         "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-2.jpg",
         "faction": {
           "id": "protoss",
@@ -19552,7 +19552,7 @@
       },
       {
         "id": 83,
-        "nom": "Blindage aérien protoss niveau 3",
+        "nom": "Blindage aérien protoss niv.3",
         "image": "/src/assets/images/upgrades/blindage-aerien-protoss-niveau-3.jpg",
         "faction": {
           "id": "protoss",
@@ -19663,7 +19663,7 @@
       },
       {
         "id": 78,
-        "nom": "Armes aériennes protoss niveau 1",
+        "nom": "Armes aériennes protoss niv.1",
         "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-1.jpg",
         "faction": {
           "id": "protoss",
@@ -19774,7 +19774,7 @@
       },
       {
         "id": 79,
-        "nom": "Armes aériennes protoss niveau 2",
+        "nom": "Armes aériennes protoss niv.2",
         "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-2.jpg",
         "faction": {
           "id": "protoss",
@@ -19885,7 +19885,7 @@
       },
       {
         "id": 80,
-        "nom": "Armes aériennes protoss niveau 3",
+        "nom": "Armes aériennes protoss niv.3",
         "image": "/src/assets/images/upgrades/armes-aeriennes-protoss-niveau-3.jpg",
         "faction": {
           "id": "protoss",
@@ -19996,7 +19996,7 @@
       },
       {
         "id": 42,
-        "nom": "Blindage terrestre protoss niveau 1",
+        "nom": "Blindage terrestre protoss niv.1",
         "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-1.jpg",
         "faction": {
           "id": "protoss",
@@ -20159,7 +20159,7 @@
       },
       {
         "id": 43,
-        "nom": "Blindage terrestre protoss niveau 2",
+        "nom": "Blindage terrestre protoss niv.2",
         "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-2.jpg",
         "faction": {
           "id": "protoss",
@@ -20322,7 +20322,7 @@
       },
       {
         "id": 44,
-        "nom": "Blindage terrestre protoss niveau 3",
+        "nom": "Blindage terrestre protoss niv.3",
         "image": "/src/assets/images/upgrades/blindage-terrestre-protoss-niveau-3.jpg",
         "faction": {
           "id": "protoss",
@@ -20485,7 +20485,7 @@
       },
       {
         "id": 39,
-        "nom": "Armes terrestres protoss niveau 1",
+        "nom": "Armes terrestres protoss niv.1",
         "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-1.jpg",
         "faction": {
           "id": "protoss",
@@ -20648,7 +20648,7 @@
       },
       {
         "id": 40,
-        "nom": "Armes terrestres protoss niveau 2",
+        "nom": "Armes terrestres protoss niv.2",
         "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-2.jpg",
         "faction": {
           "id": "protoss",
@@ -20811,7 +20811,7 @@
       },
       {
         "id": 41,
-        "nom": "Armes terrestres protoss niveau 3",
+        "nom": "Armes terrestres protoss niv.3",
         "image": "/src/assets/images/upgrades/armes-terrestres-protoss-niveau-3.jpg",
         "faction": {
           "id": "protoss",
@@ -20974,7 +20974,7 @@
       },
       {
         "id": 45,
-        "nom": "Boucliers protoss niveau 1",
+        "nom": "Boucliers protoss niv.1",
         "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-1.jpg",
         "faction": {
           "id": "protoss",
@@ -21215,7 +21215,7 @@
       },
       {
         "id": 46,
-        "nom": "Boucliers protoss niveau 2",
+        "nom": "Boucliers protoss niv.2",
         "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-2.jpg",
         "faction": {
           "id": "protoss",
@@ -21456,7 +21456,7 @@
       },
       {
         "id": 47,
-        "nom": "Boucliers protoss niveau 3",
+        "nom": "Boucliers protoss niv.3",
         "image": "/src/assets/images/upgrades/boucliers-protoss-niveau-3.jpg",
         "faction": {
           "id": "protoss",
@@ -21793,7 +21793,7 @@
       },
       {
         "id": 6,
-        "nom": "Blindage des bâtiments terrans",
+        "nom": "Blindage des bâtiments",
         "image": "/src/assets/images/upgrades/blindage-des-batiments-terrans.jpg",
         "faction": {
           "id": "terran",
@@ -21809,7 +21809,7 @@
         "construitDans": {
           "id": 22,
           "type": "batiment",
-          "nom": "Baie d'ingénierie",
+          "nom": "Centre Technique",
           "image": "/src/assets/images/buildings/baie-d-ingenierie.jpg",
           "faction": {
             "id": "terran",
@@ -21825,7 +21825,7 @@
       },
       {
         "id": 11,
-        "nom": "Blindage d’infanterie terran niveau 1",
+        "nom": "Blindage d’infanterie niv.1",
         "image": "/src/assets/images/upgrades/blindage-dinfanterie-terran-niveau-1.jpg",
         "faction": {
           "id": "terran",
@@ -21841,7 +21841,7 @@
         "construitDans": {
           "id": 22,
           "type": "batiment",
-          "nom": "Baie d'ingénierie",
+          "nom": "Centre Technique",
           "image": "/src/assets/images/buildings/baie-d-ingenierie.jpg",
           "faction": {
             "id": "terran",
@@ -21910,7 +21910,7 @@
       },
       {
         "id": 12,
-        "nom": "Blindage d’infanterie terran niveau 2",
+        "nom": "Blindage d’infanterie niv.2",
         "image": "/src/assets/images/upgrades/blindage-dinfanterie-terran-niveau-2.jpg",
         "faction": {
           "id": "terran",
@@ -21926,7 +21926,7 @@
         "construitDans": {
           "id": 22,
           "type": "batiment",
-          "nom": "Baie d'ingénierie",
+          "nom": "Centre Technique",
           "image": "/src/assets/images/buildings/baie-d-ingenierie.jpg",
           "faction": {
             "id": "terran",
@@ -21995,7 +21995,7 @@
       },
       {
         "id": 13,
-        "nom": "Blindage d’infanterie terran niveau 3",
+        "nom": "Blindage d’infanterie niv.3",
         "image": "/src/assets/images/upgrades/blindage-dinfanterie-terran-niveau-3.jpg",
         "faction": {
           "id": "terran",
@@ -22011,7 +22011,7 @@
         "construitDans": {
           "id": 22,
           "type": "batiment",
-          "nom": "Baie d'ingénierie",
+          "nom": "Centre Technique",
           "image": "/src/assets/images/buildings/baie-d-ingenierie.jpg",
           "faction": {
             "id": "terran",
@@ -22080,7 +22080,7 @@
       },
       {
         "id": 7,
-        "nom": "Armes d’infanterie terran niveau 1",
+        "nom": "Armes d’infanterie niv.1",
         "image": "/src/assets/images/upgrades/armes-dinfanterie-terran-niveau-1.jpg",
         "faction": {
           "id": "terran",
@@ -22096,7 +22096,7 @@
         "construitDans": {
           "id": 22,
           "type": "batiment",
-          "nom": "Baie d'ingénierie",
+          "nom": "Centre Technique",
           "image": "/src/assets/images/buildings/baie-d-ingenierie.jpg",
           "faction": {
             "id": "terran",
@@ -22165,7 +22165,7 @@
       },
       {
         "id": 8,
-        "nom": "Armes d’infanterie terran niveau 2",
+        "nom": "Armes d’infanterie niv.2",
         "image": "/src/assets/images/upgrades/armes-dinfanterie-terran-niveau-2.jpg",
         "faction": {
           "id": "terran",
@@ -22181,7 +22181,7 @@
         "construitDans": {
           "id": 22,
           "type": "batiment",
-          "nom": "Baie d'ingénierie",
+          "nom": "Centre Technique",
           "image": "/src/assets/images/buildings/baie-d-ingenierie.jpg",
           "faction": {
             "id": "terran",
@@ -22250,7 +22250,7 @@
       },
       {
         "id": 9,
-        "nom": "Armes d’infanterie terran niveau 3",
+        "nom": "Armes d’infanterie niv.3",
         "image": "/src/assets/images/upgrades/armes-dinfanterie-terran-niveau-3.jpg",
         "faction": {
           "id": "terran",
@@ -22266,7 +22266,7 @@
         "construitDans": {
           "id": 22,
           "type": "batiment",
-          "nom": "Baie d'ingénierie",
+          "nom": "Centre Technique",
           "image": "/src/assets/images/buildings/baie-d-ingenierie.jpg",
           "faction": {
             "id": "terran",
@@ -22335,7 +22335,7 @@
       },
       {
         "id": 36,
-        "nom": "Armes des vaisseaux terrans niveau 1",
+        "nom": "Armes des vaisseaux niv.1",
         "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-1.jpg",
         "faction": {
           "id": "terran",
@@ -22433,7 +22433,7 @@
       },
       {
         "id": 37,
-        "nom": "Armes des vaisseaux terrans niveau 2",
+        "nom": "Armes des vaisseaux niv.2",
         "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-2.jpg",
         "faction": {
           "id": "terran",
@@ -22531,7 +22531,7 @@
       },
       {
         "id": 38,
-        "nom": "Armes des vaisseaux terrans niveau 3",
+        "nom": "Armes des vaisseaux niv.3",
         "image": "/src/assets/images/upgrades/armes-des-vaisseaux-terrans-niveau-3.jpg",
         "faction": {
           "id": "terran",
@@ -22629,7 +22629,7 @@
       },
       {
         "id": 116,
-        "nom": "Blindage des véhicules et vaisseaux terrans niveau 1",
+        "nom": "Blindage niv.1",
         "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-1.jpg",
         "faction": {
           "id": "terran",
@@ -22779,7 +22779,7 @@
       },
       {
         "id": 117,
-        "nom": "Blindage des véhicules et vaisseaux terrans niveau 2",
+        "nom": "Blindage niv.2",
         "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-2.jpg",
         "faction": {
           "id": "terran",
@@ -22929,7 +22929,7 @@
       },
       {
         "id": 118,
-        "nom": "Blindage des véhicules et vaisseaux terrans niveau 3",
+        "nom": "Blindage niv.3",
         "image": "/src/assets/images/upgrades/blindage-des-vehicules-et-vaisseaux-terrans-niveau-3.jpg",
         "faction": {
           "id": "terran",
@@ -23079,7 +23079,7 @@
       },
       {
         "id": 30,
-        "nom": "Armes des véhicules terrans niveau 1",
+        "nom": "Armes des véhicules niv.1",
         "image": "/src/assets/images/upgrades/armes-des-vehicules-terrans-niveau-1.jpg",
         "faction": {
           "id": "terran",
@@ -23164,7 +23164,7 @@
       },
       {
         "id": 31,
-        "nom": "Armes des véhicules terrans niveau 2",
+        "nom": "Armes des véhicules niv.2",
         "image": "/src/assets/images/upgrades/armes-des-vehicules-terrans-niveau-2.jpg",
         "faction": {
           "id": "terran",
@@ -23249,7 +23249,7 @@
       },
       {
         "id": 32,
-        "nom": "Armes des véhicules terrans niveau 3",
+        "nom": "Armes des véhicules niv.3",
         "image": "/src/assets/images/upgrades/armes-des-vehicules-terrans-niveau-3.jpg",
         "faction": {
           "id": "terran",
@@ -23478,7 +23478,7 @@
       },
       {
         "id": 71,
-        "nom": "Carapace aérienne zerg niveau 1",
+        "nom": "Carapace aérienne zerg niv.1",
         "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-1.jpg",
         "faction": {
           "id": "zerg",
@@ -23563,7 +23563,7 @@
       },
       {
         "id": 72,
-        "nom": "Carapace aérienne zerg niveau 2",
+        "nom": "Carapace aérienne zerg niv.2",
         "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-2.jpg",
         "faction": {
           "id": "zerg",
@@ -23648,7 +23648,7 @@
       },
       {
         "id": 73,
-        "nom": "Carapace aérienne zerg niveau 3",
+        "nom": "Carapace aérienne zerg niv.3",
         "image": "/src/assets/images/upgrades/carapace-aerienne-zerg-niveau-3.jpg",
         "faction": {
           "id": "zerg",
@@ -23733,7 +23733,7 @@
       },
       {
         "id": 68,
-        "nom": "Attaques aériennes zerg niveau 1",
+        "nom": "Attaques aériennes zerg niv.1",
         "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-1.jpg",
         "faction": {
           "id": "zerg",
@@ -23818,7 +23818,7 @@
       },
       {
         "id": 69,
-        "nom": "Attaques aériennes zerg niveau 2",
+        "nom": "Attaques aériennes zerg niv.2",
         "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-2.jpg",
         "faction": {
           "id": "zerg",
@@ -23903,7 +23903,7 @@
       },
       {
         "id": 70,
-        "nom": "Attaques aériennes zerg niveau 3",
+        "nom": "Attaques aériennes zerg niv.3",
         "image": "/src/assets/images/upgrades/attaques-aeriennes-zerg-niveau-3.jpg",
         "faction": {
           "id": "zerg",
@@ -23988,7 +23988,7 @@
       },
       {
         "id": 56,
-        "nom": "Carapace terrestre zerg niveau 1",
+        "nom": "Carapace terrestre zerg niv.1",
         "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-1.jpg",
         "faction": {
           "id": "zerg",
@@ -24138,7 +24138,7 @@
       },
       {
         "id": 57,
-        "nom": "Carapace terrestre zerg niveau 2",
+        "nom": "Carapace terrestre zerg niv.2",
         "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-2.jpg",
         "faction": {
           "id": "zerg",
@@ -24288,7 +24288,7 @@
       },
       {
         "id": 58,
-        "nom": "Carapace terrestre zerg niveau 3",
+        "nom": "Carapace terrestre zerg niv.3",
         "image": "/src/assets/images/upgrades/carapace-terrestre-zerg-niveau-3.jpg",
         "faction": {
           "id": "zerg",
@@ -24438,7 +24438,7 @@
       },
       {
         "id": 53,
-        "nom": "Attaques de mêlée zerg niveau 1",
+        "nom": "Attaques de mêlée zerg niv.1",
         "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-1.jpg",
         "faction": {
           "id": "zerg",
@@ -24588,7 +24588,7 @@
       },
       {
         "id": 54,
-        "nom": "Attaques de mêlée zerg niveau 2",
+        "nom": "Attaques de mêlée zerg niv.2",
         "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-2.jpg",
         "faction": {
           "id": "zerg",
@@ -24738,7 +24738,7 @@
       },
       {
         "id": 55,
-        "nom": "Attaques de mêlée zerg niveau 3",
+        "nom": "Attaques de mêlée zerg niv.3",
         "image": "/src/assets/images/upgrades/attaques-de-melee-zerg-niveau-3.jpg",
         "faction": {
           "id": "zerg",
@@ -24888,7 +24888,7 @@
       },
       {
         "id": 59,
-        "nom": "Attaques à distance zerg niveau 1",
+        "nom": "Attaques à distance zerg niv.1",
         "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-1.jpg",
         "faction": {
           "id": "zerg",
@@ -25038,7 +25038,7 @@
       },
       {
         "id": 60,
-        "nom": "Attaques à distance zerg niveau 2",
+        "nom": "Attaques à distance zerg niv.2",
         "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-2.jpg",
         "faction": {
           "id": "zerg",
@@ -25188,7 +25188,7 @@
       },
       {
         "id": 61,
-        "nom": "Attaques à distance zerg niveau 3",
+        "nom": "Attaques à distance zerg niv.3",
         "image": "/src/assets/images/upgrades/attaques-a-distance-zerg-niveau-3.jpg",
         "faction": {
           "id": "zerg",

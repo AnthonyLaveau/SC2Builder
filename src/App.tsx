@@ -3,7 +3,6 @@ import { Header } from "./components/Header";
 import { UnitList } from "./components/UnitList";
 import { UnitCardDetails } from "./components/UnitCardDetails";
 import data from "./data/sc2_fusionne.json";
-// import type { Unit } from "./models/Unit";
 import "./App.css";
 import { toSlug } from "./models/toSlug";
 import { BuildList } from "./components/BuildList";
@@ -42,7 +41,6 @@ const upgrades: Upgrade[] = [
 
       pourUnite: data.unites
         .filter((unit) =>
-          //passive.pourUnite.some((reference) => reference.id === unit.id) ||
           unit.passifs.some((reference) => reference.id === passive.id),
         )
         .map((unit) => ({
@@ -122,6 +120,7 @@ function App() {
       <Header />
 
       <main>{content}</main>
+
       <Footer />
     </>
   );

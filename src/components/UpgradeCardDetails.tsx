@@ -87,6 +87,37 @@ export function UpgradeCardDetails({ upgrade }: UpgradeCardDetailsProps) {
             </div>
           </section>
 
+          {upgrade.categorie === "capacite" && (
+            <section className="detail-section">
+              <h2>Coût d’activation</h2>
+
+              <dl className="stats">
+                <div className="stat">
+                  <dt>Énergie</dt>
+                  <dd>{upgrade.coutActivation.energie ?? "Non renseigné"}</dd>
+                </div>
+
+                <div className="stat">
+                  <dt>Vie</dt>
+
+                  {upgrade.coutActivationParUnite?.length ? (
+                    upgrade.coutActivationParUnite.map((cout) => (
+                      <dd key={cout.unite}>
+                        {cout.unite} : {cout.vie} PV
+                      </dd>
+                    ))
+                  ) : (
+                    <dd>
+                      {upgrade.coutActivation.vie != null
+                        ? `${upgrade.coutActivation.vie} PV`
+                        : "Non renseigné"}
+                    </dd>
+                  )}
+                </div>
+              </dl>
+            </section>
+          )}
+
           <section className="detail-section">
             <h2>Recherché dans</h2>
 

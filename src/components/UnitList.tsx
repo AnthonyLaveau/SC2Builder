@@ -4,10 +4,9 @@ import { UnitCard } from "./UnitCard";
 
 type UnitListProps = {
   units: Unit[];
-  onSelect?: (unitId: number) => void;
 };
 
-export function UnitList({ units, onSelect }: UnitListProps) {
+export function UnitList({ units }: UnitListProps) {
   const [search, setSearch] = useState("");
   const [faction, setFaction] = useState("all");
   // const [faction, setFaction] = useState(() => {
@@ -167,7 +166,7 @@ export function UnitList({ units, onSelect }: UnitListProps) {
 
         <div className="cards">
           {sortedUnits.map((unit) => (
-            <UnitCard key={unit.id} unit={unit} onSelect={onSelect} />
+            <UnitCard key={unit.id} unit={unit} />
           ))}
         </div>
 

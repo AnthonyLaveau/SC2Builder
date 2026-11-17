@@ -12,6 +12,9 @@ export function BuildList({ buildings }: BuildListProps) {
   const [search, setSearch] = useState("");
   const [faction, setFaction] = useState("all");
   const [sortOrder, setSortOrder] = useState("default");
+  const availableFactions = [
+    ...new Set(buildings.map((building) => building.faction.nom)),
+  ];
 
   // Filtrage des bâtiments en fonction de la recherche et de la faction sélectionnée
   const visibleBuildings = buildings.filter((building) => {
@@ -75,7 +78,7 @@ export function BuildList({ buildings }: BuildListProps) {
           role="group"
           aria-label="Filtrer par faction"
         >
-          {["all", "Terran", "Protoss", "Zerg"].map((value) => (
+          {["all", ...availableFactions].map((value) => (
             <button
               key={value}
               type="button"
