@@ -1,8 +1,3 @@
-// export type EntityReference = {
-//   id: number;
-//   name: string;
-//   img: string;
-// };
 export type EntityReference = {
   id: number;
   type: string;

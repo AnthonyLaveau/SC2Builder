@@ -2,6 +2,7 @@ import { useState } from "react";
 import type { Upgrade } from "../models/Upgrade";
 import { UpgradeCard } from "./UpgradeCard";
 
+// Typage de la propriété upgrades pour le composant UpgradeList
 type UpgradeListProps = {
   upgrades: Upgrade[];
 };
@@ -21,6 +22,9 @@ export function UpgradeList({ upgrades }: UpgradeListProps) {
   // });
   const [sortOrder, setSortOrder] = useState("default");
   const [filterOrder, setFilterOrder] = useState("all");
+  const availableFactions = [
+    ...new Set(upgrades.map((upgrade) => upgrade.faction.nom)),
+  ];
   const visibleUpgrades = upgrades.filter((upgrade) => {
     const matchesSearch = upgrade.nom
       .toLowerCase()
@@ -78,7 +82,7 @@ export function UpgradeList({ upgrades }: UpgradeListProps) {
           role="group"
           aria-label="Filtrer par faction"
         >
-          {["all", "Terran", "Protoss", "Zerg"].map((value) => (
+          {["all", ...availableFactions].map((value) => (
             <button
               key={value}
               type="button"
@@ -107,21 +111,6 @@ export function UpgradeList({ upgrades }: UpgradeListProps) {
               onChange={(event) => setSearch(event.currentTarget.value)}
             />
           </div>
-          <div className="control-group">
-            <label className="control-label" htmlFor="capacity-sort">
-              Trier par
-            </label>
-
-            <select
-              id="capacity-sort"
-              value={sortOrder}
-              onChange={(event) => setSortOrder(event.currentTarget.value)}
-            >
-              <option value="default">Par défaut</option>
-              <option value="az">Nom : A → Z</option>
-              <option value="za">Nom : Z → A</option>
-            </select>
-          </div>
 
           <div className="control-group">
             <label className="control-label" htmlFor="capacity-sort">
@@ -138,6 +127,23 @@ export function UpgradeList({ upgrades }: UpgradeListProps) {
               <option value="passif">Passifs</option>
             </select>
           </div>
+
+          <div className="control-group">
+            <label className="control-label" htmlFor="capacity-sort">
+              Trier par
+            </label>
+
+            <select
+              id="capacity-sort"
+              value={sortOrder}
+              onChange={(event) => setSortOrder(event.currentTarget.value)}
+            >
+              <option value="default">Par défaut</option>
+              <option value="az">Nom : A → Z</option>
+              <option value="za">Nom : Z → A</option>
+            </select>
+          </div>
+
           <button
             type="button"
             className="reset"
