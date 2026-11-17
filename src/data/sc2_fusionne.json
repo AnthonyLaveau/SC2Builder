@@ -9350,7 +9350,7 @@
                 "id": 97,
                 "type": "batiment",
                 "nom": "Terrier de cafards",
-                "image": "/src/assets/images/buildings/garenne-de-cafards.png",
+                "image": "/src/assets/images/buildings/terrier-de-cafards.png",
                 "faction": {
                   "id": "zerg",
                   "nom": "Zerg",
@@ -18041,7 +18041,7 @@
       },
       "produit": [],
       "evolueVers": [],
-      "image": "/src/assets/images/buildings/garenne-de-cafards.jpg",
+      "image": "/src/assets/images/buildings/terrier-de-cafards.jpg",
       "evolueDepuis": [],
       "recherche": [
         {
@@ -19379,14 +19379,14 @@
           "id": 97,
           "type": "batiment",
           "nom": "Terrier de cafards",
-          "image": "/src/assets/images/buildings/garenne-de-cafards.jpg",
+          "image": "/src/assets/images/buildings/terrier-de-cafards.jpg",
           "faction": {
             "id": "zerg",
             "nom": "Zerg",
             "image": null,
             "lien": "/unites?faction=zerg"
           },
-          "lien": "/batiments/zerg/garenne-de-cafards"
+          "lien": "/batiments/zerg/terrier-de-cafards"
         },
         "pourUnite": [
           {
@@ -23753,14 +23753,14 @@
           "id": 97,
           "type": "batiment",
           "nom": "Terrier de cafards",
-          "image": "/src/assets/images/buildings/garenne-de-cafards.jpg",
+          "image": "/src/assets/images/buildings/terrier-de-cafards.jpg",
           "faction": {
             "id": "zerg",
             "nom": "Zerg",
             "image": null,
             "lien": "/unites?faction=zerg"
           },
-          "lien": "/batiments/zerg/garenne-de-cafards"
+          "lien": "/batiments/zerg/terrier-de-cafards"
         },
         "pourUnite": [
           {

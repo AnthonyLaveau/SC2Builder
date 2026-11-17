@@ -5730,12 +5730,12 @@
        "batiment": {
         "id": 97,
         "type": "batiment",
-        "nom": "Garenne de cafards",
-        "image": "/images/buildings/roachwarren.png",
+        "nom": "Terrier de cafards",
+        "image": "/images/buildings/terrier-de-cafards.png",
         "faction": "zerg",
         "lien": "/batiments/97"
        },
-       "libelle": "Nécessite : Garenne de cafards"
+       "libelle": "Nécessite : Terrier de cafards"
       }
      ]
     }
@@ -11468,7 +11468,7 @@
   },
   {
    "id": 97,
-   "nom": "Garenne de cafards",
+   "nom": "Terrier de cafards",
    "nomVerifie": false,
    "nomTechnique": "RoachWarren",
    "faction": {
@@ -11502,7 +11502,7 @@
    },
    "produit": [],
    "evolueVers": [],
-   "image": "/images/buildings/roachwarren.png",
+   "image": "/images/buildings/terrier-de-cafards.png",
    "evolueDepuis": [],
    "recherche": [
     {
@@ -11759,8 +11759,8 @@
     {
      "id": 97,
      "type": "batiment",
-     "nom": "Garenne de cafards",
-     "image": "/images/buildings/roachwarren.png",
+     "nom": "Terrier de cafards",
+     "image": "/images/buildings/terrier-de-cafards.png",
      "faction": {
       "id": "zerg",
       "nom": "Zerg",
@@ -11810,8 +11810,8 @@
     {
      "id": 97,
      "type": "batiment",
-     "nom": "Garenne de cafards",
-     "image": "/images/buildings/roachwarren.png",
+     "nom": "Terrier de cafards",
+     "image": "/images/buildings/terrier-de-cafards.png",
      "faction": {
       "id": "zerg",
       "nom": "Zerg",
