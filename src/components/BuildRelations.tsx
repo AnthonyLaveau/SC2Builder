@@ -1,11 +1,13 @@
 import type { EntityReference } from "../models/EntityReference";
 import { toSlug } from "../models/toSlug";
 
+// Typage des propriétés title et buildings pour le composant BuildRelations
 type BuildRelationsProps = {
   title: string;
   buildings: EntityReference[];
 };
 
+// Composant BuildRelations qui affiche une liste de bâtiments liés à une entité (unité ou amélioration)
 export function BuildRelations({ title, buildings }: BuildRelationsProps) {
   return (
     <div className="relation-box">

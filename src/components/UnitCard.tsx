@@ -3,10 +3,9 @@ import { toSlug } from "../models/toSlug";
 
 type UnitCardProps = {
   unit: Unit;
-  onSelect?: (unitId: number) => void;
 };
 
-export function UnitCard({ unit /*onSelect */ }: UnitCardProps) {
+export function UnitCard({ unit }: UnitCardProps) {
   return (
     <a href={`/unites/${toSlug(unit.faction.nom)}/${toSlug(unit.nom)}`}>
       <article

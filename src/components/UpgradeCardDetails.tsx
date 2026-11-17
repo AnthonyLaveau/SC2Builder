@@ -3,10 +3,12 @@ import { toSlug } from "../models/toSlug";
 import { BuildRelations } from "./BuildRelations";
 import { UnitRelations } from "./UnitRelations";
 
+// Typage des propriétés upgrade pour le composant UpgradeCardDetails
 type UpgradeCardDetailsProps = {
   upgrade: Upgrade;
 };
 
+// Composant UpgradeCardDetails qui affiche les détails d'une amélioration, y compris ses caractéristiques, son coût de recherche, le bâtiment de recherche et les unités affectées
 export function UpgradeCardDetails({ upgrade }: UpgradeCardDetailsProps) {
   const unitName = new URLSearchParams(window.location.search).get("unite");
   return (
@@ -85,47 +87,6 @@ export function UpgradeCardDetails({ upgrade }: UpgradeCardDetailsProps) {
             </div>
           </section>
 
-          {/* {upgrade.categorie === "capacite" && (
-            <section className="detail-section">
-              <h2>Coût d’activation</h2>
-
-              <dl className="stats">
-                <div className="stat">
-                  <dt>Énergie</dt>
-                  <dd>{upgrade.coutActivation.energie ?? "Non renseigné"}</dd>
-                </div>
-
-                <div className="stat">
-                  <dt>Vie</dt>
-
-                  {upgrade.coutActivationParUnite?.some(
-                    (cout) => cout.unite === unitName,
-                  ) ? (
-                    <dd>
-                      {
-                        upgrade.coutActivationParUnite.find(
-                          (cout) => cout.unite === unitName,
-                        )?.vie
-                      }{" "}
-                      PV
-                    </dd>
-                  ) : upgrade.coutActivationParUnite?.length ? (
-                    upgrade.coutActivationParUnite.map((cout) => (
-                      <dd key={cout.unite}>
-                        {cout.unite} : {cout.vie} PV
-                      </dd>
-                    ))
-                  ) : (
-                    <dd>
-                      {upgrade.coutActivation.vie != null
-                        ? `${upgrade.coutActivation.vie} PV`
-                        : "Non renseigné"}
-                    </dd>
-                  )}
-                </div>
-              </dl>
-            </section>
-          )} */}
           <section className="detail-section">
             <h2>Recherché dans</h2>
 
