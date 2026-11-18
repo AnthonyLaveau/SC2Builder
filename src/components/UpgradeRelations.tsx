@@ -7,7 +7,7 @@ type UpgradeRelationsProps = {
   upgrades: EntityReference[];
 };
 
-// Composant UpgradeRelations qui affiche une liste d'améliorations liées à une entité (unité ou bâtiment)
+// Affiche les améliorations liées à une unité ou à un bâtiment.
 export function UpgradeRelations({ title, upgrades }: UpgradeRelationsProps) {
   return (
     <div className="relation-box">

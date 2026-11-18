@@ -8,7 +8,7 @@ type UpgradeCardDetailsProps = {
   upgrade: Upgrade;
 };
 
-// Composant UpgradeCardDetails qui affiche les détails d'une amélioration, y compris ses caractéristiques, son coût de recherche, le bâtiment de recherche et les unités affectées
+// Affiche les détails d'une amélioration : catégorie, coûts, bâtiment de recherche et unités affectées.
 export function UpgradeCardDetails({ upgrade }: UpgradeCardDetailsProps) {
   const unitName = new URLSearchParams(window.location.search).get("unite");
   return (

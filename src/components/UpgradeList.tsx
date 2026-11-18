@@ -8,6 +8,7 @@ type UpgradeListProps = {
 };
 
 export function UpgradeList({ upgrades }: UpgradeListProps) {
+  // États utilisés pour la recherche, les filtres et le tri.
   const [search, setSearch] = useState("");
   const [faction, setFaction] = useState("all");
   // const [faction, setFaction] = useState(() => {
@@ -25,6 +26,7 @@ export function UpgradeList({ upgrades }: UpgradeListProps) {
   const availableFactions = [
     ...new Set(upgrades.map((upgrade) => upgrade.faction.nom)),
   ];
+  // Filtre les améliorations avant de les afficher.
   const visibleUpgrades = upgrades.filter((upgrade) => {
     const matchesSearch = upgrade.nom
       .toLowerCase()

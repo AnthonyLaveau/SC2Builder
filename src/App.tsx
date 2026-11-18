@@ -20,6 +20,7 @@ const upgrades: Upgrade[] = [
       ...capacity,
       categorie: "capacite",
 
+      // Recherche les unités concernées par cette capacité dans le JSON.
       pourUnite: data.unites
         .filter((unit) =>
           capacity.pourUnite.some((reference) => reference.id === unit.id),
@@ -39,6 +40,7 @@ const upgrades: Upgrade[] = [
       ...passive,
       categorie: "passif",
 
+      // Recherche les unités qui possèdent ce passif.
       pourUnite: data.unites
         .filter((unit) =>
           unit.passifs.some((reference) => reference.id === passive.id),
@@ -77,6 +79,7 @@ function App() {
       `/ameliorations/${upgrade.categorie}/${toSlug(upgrade.faction.id)}/${toSlug(upgrade.nom)}`,
   );
 
+  // Contient le composant JSX correspondant à l'adresse courante.
   let content;
 
   // 1. Accueil et 2. Liste des unités
