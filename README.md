@@ -26,6 +26,20 @@ Par exemple, depuis l’accueil, on peut sélectionner la faction **Terran**, re
 
 La [navigation](src/App.tsx) utilise l’adresse de la page pour choisir le [composant](src/components) à afficher. L’accueil ouvre la liste des unités. Chaque fiche possède sa propre URL, par exemple `/unites/terran/marine`.
 
+## Un choix technique dont nous sommes satisfaits
+
+Nous avons créé des composants réutilisables pour afficher les relations
+entre les unités, les bâtiments et les améliorations. Par exemple,
+`UnitRelations` affiche aussi bien les unités produites par un bâtiment
+que celles affectées par une amélioration ou les forces et faiblesses
+d’une unité.
+
+Ces composants reçoivent leurs données par les props. Ce choix évite de
+répéter le code d’affichage et des liens dans chaque fiche, tout en
+conservant une présentation cohérente.
+
+
+
 ## Lancer le projet en local
 
 Avec Node.js et npm installés, exécuter ces commandes à la racine du dépôt :
@@ -42,3 +56,6 @@ Ouvrir l’adresse affichée par Vite dans le terminal.
 | `npm run lint` | Analyser le code avec Oxlint. |
 | `npm run build` | Vérifier les types avec TypeScript et générer le site dans `dist/`. |
 | `npm run preview` | Prévisualiser localement la version générée après le build. |
+
+
+
