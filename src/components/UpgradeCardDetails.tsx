@@ -10,7 +10,7 @@ type UpgradeCardDetailsProps = {
 
 // Composant UpgradeCardDetails qui affiche les détails d'une amélioration, y compris ses caractéristiques, son coût de recherche, le bâtiment de recherche et les unités affectées
 export function UpgradeCardDetails({ upgrade }: UpgradeCardDetailsProps) {
-  const unitName = new URLSearchParams(window.location.search).get("unite");
+  // const unitName = new URLSearchParams(window.location.search).get("unite");
   return (
     <section className="detail-page page" data-faction={upgrade.faction.id}>
       <a className="button" href="/ameliorations">

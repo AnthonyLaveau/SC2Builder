@@ -9,17 +9,18 @@ type UpgradeListProps = {
 
 export function UpgradeList({ upgrades }: UpgradeListProps) {
   const [search, setSearch] = useState("");
-  const [faction, setFaction] = useState("all");
-  // const [faction, setFaction] = useState(() => {
-  //   const params = new URLSearchParams(window.location.search);
-  //   const factionParam = params.get("faction");
+  // cosnst [faction, setFaction] = useState("all");
+  const [faction, setFaction] = useState(() => {
+    const params = new URLSearchParams(window.location.search);
+    const factionParam = params.get("faction");
 
-  //   const factionName = ["Terran", "Protoss", "Zerg"].find(
-  //     (name) => name.toLowerCase() === factionParam,
-  //   );
+    const factionName = ["Terran", "Protoss", "Zerg"].find(
+      (name) => name.toLowerCase() === factionParam?.toLowerCase(),
+    );
 
-  //   return factionName ?? "all";
-  // });
+    return factionName ?? "all";
+  });
+
   const [sortOrder, setSortOrder] = useState("default");
   const [filterOrder, setFilterOrder] = useState("all");
   const availableFactions = [

@@ -10,7 +10,16 @@ type BuildListProps = {
 // Composant BuildList qui affiche une liste de bâtiments avec des filtres et un tri
 export function BuildList({ buildings }: BuildListProps) {
   const [search, setSearch] = useState("");
-  const [faction, setFaction] = useState("all");
+  const [faction, setFaction] = useState(() => {
+    const params = new URLSearchParams(window.location.search);
+    const factionParam = params.get("faction");
+
+    const factionName = ["Terran", "Protoss", "Zerg"].find(
+      (name) => name.toLowerCase() === factionParam?.toLowerCase(),
+    );
+
+    return factionName ?? "all";
+  });
   const [sortOrder, setSortOrder] = useState("default");
   const availableFactions = [
     ...new Set(buildings.map((building) => building.faction.nom)),
