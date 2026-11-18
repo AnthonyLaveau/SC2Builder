@@ -2,23 +2,24 @@ import { useState } from "react";
 import type { Unit } from "../models/Unit";
 import { UnitCard } from "./UnitCard";
 
+// Typage
 type UnitListProps = {
   units: Unit[];
 };
 
 export function UnitList({ units }: UnitListProps) {
   const [search, setSearch] = useState("");
-  const [faction, setFaction] = useState("all");
-  // const [faction, setFaction] = useState(() => {
-  //   const params = new URLSearchParams(window.location.search);
-  //   const factionParam = params.get("faction");
+  // const [faction, setFaction] = useState("all");
+  const [faction, setFaction] = useState(() => {
+    const params = new URLSearchParams(window.location.search);
+    const factionParam = params.get("faction");
 
-  //   const factionName = ["Terran", "Protoss", "Zerg"].find(
-  //     (name) => name.toLowerCase() === factionParam,
-  //   );
+    const factionName = ["Terran", "Protoss", "Zerg"].find(
+      (name) => name.toLowerCase() === factionParam,
+    );
 
-  //   return factionName ?? "all";
-  // });
+    return factionName ?? "all";
+  });
   const [sortOrder, setSortOrder] = useState("default");
   const [selectedType, setSelectedType] = useState("all");
   // const visibleUnits = units.filter((unit) =>
